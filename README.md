@@ -12,6 +12,7 @@
 | [2509-cycle-length-queries-in-a-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3127-make-a-square-with-the-same-color](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3127-make-a-square-with-the-same-color) |
+| [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 
 ## Depth-First Search
 |  |
@@ -102,6 +103,7 @@
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 
 ## Breadth-First Search
 |  |
@@ -153,6 +155,7 @@
 |  |
 | ------- |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1713-minimum-operations-to-make-a-subsequence) |
+| [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 
 ## Longest Increasing Subsequence
 |  |
