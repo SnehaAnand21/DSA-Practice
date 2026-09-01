@@ -15,6 +15,7 @@
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3127-make-a-square-with-the-same-color](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3127-make-a-square-with-the-same-color) |
+| [3131-find-the-integer-added-to-array-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 
 ## Depth-First Search
