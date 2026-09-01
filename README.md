@@ -53,6 +53,7 @@
 |  |
 | ------- |
 | [0957-prison-cells-after-n-days](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0957-prison-cells-after-n-days) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [2266-count-number-of-texts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2266-count-number-of-texts) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3556-sum-of-largest-prime-substrings) |
 
@@ -61,6 +62,7 @@
 | ------- |
 | [1002-find-common-characters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1002-find-common-characters) |
 | [1163-last-substring-in-lexicographical-order](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1163-last-substring-in-lexicographical-order) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2266-count-number-of-texts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2266-count-number-of-texts) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3556-sum-of-largest-prime-substrings) |
@@ -158,6 +160,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1713-minimum-operations-to-make-a-subsequence) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 
