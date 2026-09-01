@@ -17,6 +17,7 @@
 | [2551-put-marbles-in-bags](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2551-put-marbles-in-bags) |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3127-make-a-square-with-the-same-color](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3127-make-a-square-with-the-same-color) |
@@ -139,6 +140,7 @@
 |  |
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 
 ## Bitmask
 |  |
@@ -175,12 +177,14 @@
 |  |
 | ------- |
 | [1937-maximum-number-of-points-with-cost](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1937-maximum-number-of-points-with-cost) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3127-make-a-square-with-the-same-color](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3127-make-a-square-with-the-same-color) |
 
 ## Binary Search
 |  |
 | ------- |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1713-minimum-operations-to-make-a-subsequence) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 
 ## Greedy
 |  |
@@ -207,6 +211,7 @@
 | ------- |
 | [2551-put-marbles-in-bags](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2551-put-marbles-in-bags) |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 
 ## Shortest Path
 |  |
@@ -233,3 +238,8 @@
 |  |
 | ------- |
 | [1774-closest-dessert-cost](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1774-closest-dessert-cost) |
+
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
