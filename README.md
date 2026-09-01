@@ -6,6 +6,7 @@
 | [0957-prison-cells-after-n-days](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0957-prison-cells-after-n-days) |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [2097-valid-arrangement-of-pairs](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2097-valid-arrangement-of-pairs) |
+| [2509-cycle-length-queries-in-a-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2798-number-of-employees-who-met-the-target) |
 
 ## Depth-First Search
@@ -108,3 +109,23 @@
 |  |
 | ------- |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
+
+## Tree
+|  |
+| ------- |
+| [2509-cycle-length-queries-in-a-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2509-cycle-length-queries-in-a-tree) |
+
+## Binary Tree
+|  |
+| ------- |
+| [2509-cycle-length-queries-in-a-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2509-cycle-length-queries-in-a-tree) |
+
+## Binary Lifting
+|  |
+| ------- |
+| [2509-cycle-length-queries-in-a-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2509-cycle-length-queries-in-a-tree) |
+
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [2509-cycle-length-queries-in-a-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2509-cycle-length-queries-in-a-tree) |
