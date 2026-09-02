@@ -31,6 +31,7 @@
 | [2055-plates-between-candles](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2055-plates-between-candles) |
 | [2097-valid-arrangement-of-pairs](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2097-valid-arrangement-of-pairs) |
 | [2101-detonate-the-maximum-bombs](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2101-detonate-the-maximum-bombs) |
+| [2122-recover-the-original-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2122-recover-the-original-array) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
 | [2453-destroy-sequential-targets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2453-destroy-sequential-targets) |
@@ -106,6 +107,7 @@
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1817-finding-the-users-active-minutes](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1817-finding-the-users-active-minutes) |
 | [2103-rings-and-rods](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2103-rings-and-rods) |
+| [2122-recover-the-original-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2122-recover-the-original-array) |
 | [2266-count-number-of-texts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2266-count-number-of-texts) |
 | [2453-destroy-sequential-targets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2453-destroy-sequential-targets) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2531-make-number-of-distinct-characters-equal) |
@@ -171,6 +173,7 @@
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1851-minimum-interval-to-include-each-query) |
+| [2122-recover-the-original-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2122-recover-the-original-array) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2551-put-marbles-in-bags](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2551-put-marbles-in-bags) |
 | [2747-count-zero-request-servers](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2747-count-zero-request-servers) |
@@ -194,6 +197,7 @@
 |  |
 | ------- |
 | [1163-last-substring-in-lexicographical-order](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1163-last-substring-in-lexicographical-order) |
+| [2122-recover-the-original-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2122-recover-the-original-array) |
 | [2396-strictly-palindromic-number](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2396-strictly-palindromic-number) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 
@@ -257,6 +261,7 @@
 | ------- |
 | [1291-sequential-digits](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1291-sequential-digits) |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
+| [2122-recover-the-original-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2122-recover-the-original-array) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [3127-make-a-square-with-the-same-color](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3127-make-a-square-with-the-same-color) |
 | [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3389-minimum-operations-to-make-character-frequencies-equal) |
