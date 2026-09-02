@@ -46,6 +46,7 @@
 | [3364-minimum-positive-sum-subarray](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3493-properties-graph](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3493-properties-graph) |
+| [3495-minimum-operations-to-make-array-elements-zero](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
 
 ## Depth-First Search
 |  |
@@ -119,6 +120,7 @@
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [3115-maximum-prime-difference](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3115-maximum-prime-difference) |
 | [3128-right-triangles](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3128-right-triangles) |
+| [3495-minimum-operations-to-make-array-elements-zero](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
 | [3516-find-closest-person](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3516-find-closest-person) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3556-sum-of-largest-prime-substrings) |
 
@@ -183,6 +185,7 @@
 | [3133-minimum-array-end](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3133-minimum-array-end) |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3393-count-paths-with-the-given-xor-value) |
+| [3495-minimum-operations-to-make-array-elements-zero](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
 
 ## Floyd's Cycle Finding Algorithm
 |  |
