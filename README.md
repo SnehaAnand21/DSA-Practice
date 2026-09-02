@@ -3,6 +3,7 @@
 ## Array
 |  |
 | ------- |
+| [0848-shifting-letters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0848-shifting-letters) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0957-prison-cells-after-n-days](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0957-prison-cells-after-n-days) |
 | [0997-find-the-town-judge](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0997-find-the-town-judge) |
@@ -90,6 +91,7 @@
 ## String
 |  |
 | ------- |
+| [0848-shifting-letters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0848-shifting-letters) |
 | [1002-find-common-characters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1002-find-common-characters) |
 | [1163-last-substring-in-lexicographical-order](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1163-last-substring-in-lexicographical-order) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1247-minimum-swaps-to-make-strings-equal) |
@@ -269,6 +271,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0848-shifting-letters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0848-shifting-letters) |
 | [1314-matrix-block-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1314-matrix-block-sum) |
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
 
