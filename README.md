@@ -41,6 +41,7 @@
 | [1937-maximum-number-of-points-with-cost](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1946-largest-number-after-mutating-substring](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1946-largest-number-after-mutating-substring) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2012-sum-of-beauty-in-the-array) |
+| [2019-the-score-of-students-solving-math-expression](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2055-plates-between-candles](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2055-plates-between-candles) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2097-valid-arrangement-of-pairs](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2097-valid-arrangement-of-pairs) |
@@ -152,6 +153,7 @@
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1713-minimum-operations-to-make-a-subsequence) |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1817-finding-the-users-active-minutes](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1817-finding-the-users-active-minutes) |
+| [2019-the-score-of-students-solving-math-expression](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2103-rings-and-rods](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2103-rings-and-rods) |
 | [2122-recover-the-original-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2122-recover-the-original-array) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
@@ -188,6 +190,7 @@
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1330-reverse-subarray-to-maximize-array-value) |
 | [1688-count-of-matches-in-tournament](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1688-count-of-matches-in-tournament) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
+| [2019-the-score-of-students-solving-math-expression](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2101-detonate-the-maximum-bombs](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2101-detonate-the-maximum-bombs) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2266-count-number-of-texts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2266-count-number-of-texts) |
@@ -228,6 +231,7 @@
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1946-largest-number-after-mutating-substring](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1946-largest-number-after-mutating-substring) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2019-the-score-of-students-solving-math-expression](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2047-number-of-valid-words-in-a-sentence) |
 | [2055-plates-between-candles](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2055-plates-between-candles) |
 | [2103-rings-and-rods](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2103-rings-and-rods) |
@@ -348,6 +352,7 @@
 | [1774-closest-dessert-cost](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1774-closest-dessert-cost) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1937-maximum-number-of-points-with-cost) |
+| [2019-the-score-of-students-solving-math-expression](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2266-count-number-of-texts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2266-count-number-of-texts) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -665,6 +670,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2019-the-score-of-students-solving-math-expression](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -713,6 +719,7 @@
 ## Memoization
 |  |
 | ------- |
+| [2019-the-score-of-students-solving-math-expression](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 
 ## Meet in the Middle
