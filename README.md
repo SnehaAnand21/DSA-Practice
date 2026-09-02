@@ -196,6 +196,7 @@
 ## Math
 |  |
 | ------- |
+| [0728-self-dividing-numbers](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0812-largest-triangle-area) |
 | [0858-mirror-reflection](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0858-mirror-reflection) |
 | [0910-smallest-range-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0910-smallest-range-ii) |
