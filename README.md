@@ -16,6 +16,7 @@
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1713-minimum-operations-to-make-a-subsequence) |
 | [1774-closest-dessert-cost](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1774-closest-dessert-cost) |
 | [1817-finding-the-users-active-minutes](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1817-finding-the-users-active-minutes) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1929-concatenation-of-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1929-concatenation-of-array) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1937-maximum-number-of-points-with-cost) |
@@ -118,6 +119,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2551-put-marbles-in-bags](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2551-put-marbles-in-bags) |
 | [2747-count-zero-request-servers](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2747-count-zero-request-servers) |
@@ -237,6 +239,7 @@
 | ------- |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1713-minimum-operations-to-make-a-subsequence) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2551-put-marbles-in-bags](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2551-put-marbles-in-bags) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
