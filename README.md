@@ -31,6 +31,7 @@
 | [2101-detonate-the-maximum-bombs](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2101-detonate-the-maximum-bombs) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
+| [2453-destroy-sequential-targets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2453-destroy-sequential-targets) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [2551-put-marbles-in-bags](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2551-put-marbles-in-bags) |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
@@ -101,6 +102,7 @@
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1817-finding-the-users-active-minutes](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1817-finding-the-users-active-minutes) |
 | [2266-count-number-of-texts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2266-count-number-of-texts) |
+| [2453-destroy-sequential-targets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2453-destroy-sequential-targets) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2531-make-number-of-distinct-characters-equal) |
 | [2747-count-zero-request-servers](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2747-count-zero-request-servers) |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
@@ -316,6 +318,7 @@
 |  |
 | ------- |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
+| [2453-destroy-sequential-targets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2453-destroy-sequential-targets) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2531-make-number-of-distinct-characters-equal) |
 | [2833-furthest-point-from-origin](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2833-furthest-point-from-origin) |
 | [3128-right-triangles](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3128-right-triangles) |
