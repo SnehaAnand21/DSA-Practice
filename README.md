@@ -24,6 +24,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1713-minimum-operations-to-make-a-subsequence) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1774-closest-dessert-cost](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1774-closest-dessert-cost) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1817-finding-the-users-active-minutes](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1817-finding-the-users-active-minutes) |
