@@ -90,6 +90,7 @@
 |  |
 | ------- |
 | [0957-prison-cells-after-n-days](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0957-prison-cells-after-n-days) |
+| [1175-prime-arrangements](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1175-prime-arrangements) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [2101-detonate-the-maximum-bombs](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2101-detonate-the-maximum-bombs) |
@@ -319,3 +320,18 @@
 |  |
 | ------- |
 | [2101-detonate-the-maximum-bombs](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2101-detonate-the-maximum-bombs) |
+
+## Primality Test
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1175-prime-arrangements) |
+
+## Sieve Theory
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1175-prime-arrangements) |
+
+## Prime Number Sieve
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1175-prime-arrangements) |
