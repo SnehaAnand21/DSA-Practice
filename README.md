@@ -56,6 +56,7 @@
 | [2498-frog-jump-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2498-frog-jump-ii) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [2551-put-marbles-in-bags](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2551-put-marbles-in-bags) |
+| [2594-minimum-time-to-repair-cars](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2594-minimum-time-to-repair-cars) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 | [2746-decremental-string-concatenation](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2746-decremental-string-concatenation) |
@@ -434,6 +435,7 @@
 | [2055-plates-between-candles](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2055-plates-between-candles) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2498-frog-jump-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2498-frog-jump-ii) |
+| [2594-minimum-time-to-repair-cars](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2594-minimum-time-to-repair-cars) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
