@@ -42,6 +42,7 @@
 | [3131-find-the-integer-added-to-array-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3206-alternating-groups-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3206-alternating-groups-i) |
+| [3209-number-of-subarrays-with-and-value-of-k](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 | [3364-minimum-positive-sum-subarray](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3493-properties-graph](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3493-properties-graph) |
@@ -180,6 +181,7 @@
 | [0868-binary-gap](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0868-binary-gap) |
 | [0957-prison-cells-after-n-days](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0957-prison-cells-after-n-days) |
 | [3133-minimum-array-end](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3133-minimum-array-end) |
+| [3209-number-of-subarrays-with-and-value-of-k](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3393-count-paths-with-the-given-xor-value) |
 
 ## Floyd's Cycle Finding Algorithm
@@ -265,6 +267,7 @@
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1713-minimum-operations-to-make-a-subsequence) |
 | [2055-plates-between-candles](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2055-plates-between-candles) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3209-number-of-subarrays-with-and-value-of-k](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 
 ## Greedy
 |  |
@@ -415,3 +418,8 @@
 |  |
 | ------- |
 | [1514-path-with-maximum-probability](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1514-path-with-maximum-probability) |
+
+## Segment Tree
+|  |
+| ------- |
+| [3209-number-of-subarrays-with-and-value-of-k](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
