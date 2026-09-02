@@ -37,6 +37,7 @@
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3115-maximum-prime-difference](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3115-maximum-prime-difference) |
 | [3127-make-a-square-with-the-same-color](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3127-make-a-square-with-the-same-color) |
+| [3128-right-triangles](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3128-right-triangles) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3206-alternating-groups-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3206-alternating-groups-i) |
@@ -91,6 +92,7 @@
 | [2531-make-number-of-distinct-characters-equal](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2531-make-number-of-distinct-characters-equal) |
 | [2747-count-zero-request-servers](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2747-count-zero-request-servers) |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
+| [3128-right-triangles](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3128-right-triangles) |
 | [3408-design-task-manager](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3408-design-task-manager) |
 | [3493-properties-graph](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3493-properties-graph) |
 | [3543-maximum-weighted-k-edge-path](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3543-maximum-weighted-k-edge-path) |
@@ -111,6 +113,7 @@
 | [2485-find-the-pivot-integer](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2485-find-the-pivot-integer) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [3115-maximum-prime-difference](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3115-maximum-prime-difference) |
+| [3128-right-triangles](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3128-right-triangles) |
 | [3516-find-closest-person](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3516-find-closest-person) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3556-sum-of-largest-prime-substrings) |
 
@@ -281,6 +284,7 @@
 | ------- |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2531-make-number-of-distinct-characters-equal) |
 | [2833-furthest-point-from-origin](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2833-furthest-point-from-origin) |
+| [3128-right-triangles](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3128-right-triangles) |
 
 ## Heap (Priority Queue)
 |  |
@@ -389,3 +393,8 @@
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2396-strictly-palindromic-number) |
+
+## Combinatorics
+|  |
+| ------- |
+| [3128-right-triangles](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3128-right-triangles) |
