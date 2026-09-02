@@ -60,6 +60,7 @@
 | [2856-minimum-array-length-after-pair-removals](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3101-count-alternating-subarrays](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3101-count-alternating-subarrays) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3115-maximum-prime-difference](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3115-maximum-prime-difference) |
 | [3127-make-a-square-with-the-same-color](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3127-make-a-square-with-the-same-color) |
@@ -169,6 +170,7 @@
 | [2485-find-the-pivot-integer](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2485-find-the-pivot-integer) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2844-minimum-operations-to-make-a-special-number) |
+| [3101-count-alternating-subarrays](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3101-count-alternating-subarrays) |
 | [3115-maximum-prime-difference](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3115-maximum-prime-difference) |
 | [3128-right-triangles](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3128-right-triangles) |
 | [3343-count-number-of-balanced-permutations](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3343-count-number-of-balanced-permutations) |
