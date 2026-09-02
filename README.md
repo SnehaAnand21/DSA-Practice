@@ -170,6 +170,7 @@
 | [2833-furthest-point-from-origin](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2833-furthest-point-from-origin) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3216-lexicographically-smallest-string-after-a-swap](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3389-minimum-operations-to-make-character-frequencies-equal) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3556-sum-of-largest-prime-substrings) |
@@ -342,6 +343,7 @@
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
+| [3216-lexicographically-smallest-string-after-a-swap](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 
 ## Longest Increasing Subsequence
