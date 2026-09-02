@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0804-unique-morse-code-words](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0804-unique-morse-code-words) |
+| [0812-largest-triangle-area](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0812-largest-triangle-area) |
 | [0823-binary-trees-with-factors](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0823-binary-trees-with-factors) |
 | [0848-shifting-letters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0848-shifting-letters) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -187,6 +188,7 @@
 ## Math
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0812-largest-triangle-area) |
 | [0858-mirror-reflection](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0858-mirror-reflection) |
 | [0910-smallest-range-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0910-smallest-range-ii) |
 | [0957-prison-cells-after-n-days](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0957-prison-cells-after-n-days) |
@@ -630,6 +632,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0812-largest-triangle-area) |
 | [0858-mirror-reflection](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0858-mirror-reflection) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1232-check-if-it-is-a-straight-line) |
 | [2101-detonate-the-maximum-bombs](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2101-detonate-the-maximum-bombs) |
@@ -804,3 +807,8 @@
 |  |
 | ------- |
 | [0858-mirror-reflection](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0858-mirror-reflection) |
+
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0812-largest-triangle-area) |
