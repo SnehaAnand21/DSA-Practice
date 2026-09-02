@@ -108,6 +108,7 @@
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2266-count-number-of-texts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2266-count-number-of-texts) |
 | [2396-strictly-palindromic-number](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2396-strictly-palindromic-number) |
+| [2485-find-the-pivot-integer](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2485-find-the-pivot-integer) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [3115-maximum-prime-difference](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3115-maximum-prime-difference) |
 | [3516-find-closest-person](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3516-find-closest-person) |
@@ -329,6 +330,7 @@
 | [1314-matrix-block-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1314-matrix-block-sum) |
 | [2055-plates-between-candles](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2055-plates-between-candles) |
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
+| [2485-find-the-pivot-integer](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2485-find-the-pivot-integer) |
 
 ## Design
 |  |
