@@ -179,6 +179,7 @@
 | [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3389-minimum-operations-to-make-character-frequencies-equal) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3556-sum-of-largest-prime-substrings) |
+| [3563-lexicographically-smallest-string-after-adjacent-removals](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3563-lexicographically-smallest-string-after-adjacent-removals) |
 
 ## Sorting
 |  |
@@ -260,6 +261,7 @@
 | [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3389-minimum-operations-to-make-character-frequencies-equal) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3543-maximum-weighted-k-edge-path](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3543-maximum-weighted-k-edge-path) |
+| [3563-lexicographically-smallest-string-after-adjacent-removals](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3563-lexicographically-smallest-string-after-adjacent-removals) |
 
 ## Breadth-First Search
 |  |
