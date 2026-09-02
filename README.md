@@ -7,6 +7,7 @@
 | [0848-shifting-letters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0848-shifting-letters) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0910-smallest-range-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0910-smallest-range-ii) |
+| [0956-tallest-billboard](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0956-tallest-billboard) |
 | [0957-prison-cells-after-n-days](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0957-prison-cells-after-n-days) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0997-find-the-town-judge](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0997-find-the-town-judge) |
@@ -278,6 +279,7 @@
 |  |
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0956-tallest-billboard](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0956-tallest-billboard) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
@@ -447,6 +449,7 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0956-tallest-billboard](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0956-tallest-billboard) |
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
 | [1774-closest-dessert-cost](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1774-closest-dessert-cost) |
 
@@ -609,3 +612,13 @@
 |  |
 | ------- |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+
+## Meet in the Middle
+|  |
+| ------- |
+| [0956-tallest-billboard](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0956-tallest-billboard) |
+
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0956-tallest-billboard](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0956-tallest-billboard) |
