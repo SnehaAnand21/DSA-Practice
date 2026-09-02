@@ -59,6 +59,7 @@
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2453-destroy-sequential-targets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2453-destroy-sequential-targets) |
 | [2498-frog-jump-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2498-frog-jump-ii) |
@@ -297,6 +298,7 @@
 | [2122-recover-the-original-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2122-recover-the-original-array) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2551-put-marbles-in-bags](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2551-put-marbles-in-bags) |
 | [2578-split-with-minimum-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2578-split-with-minimum-sum) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -338,6 +340,7 @@
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2122-recover-the-original-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2122-recover-the-original-array) |
 | [2396-strictly-palindromic-number](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2396-strictly-palindromic-number) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
@@ -521,6 +524,7 @@
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2498-frog-jump-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2498-frog-jump-ii) |
 | [2551-put-marbles-in-bags](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2551-put-marbles-in-bags) |
 | [2578-split-with-minimum-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2578-split-with-minimum-sum) |
@@ -567,6 +571,7 @@
 | [1642-furthest-building-you-can-reach](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1642-furthest-building-you-can-reach) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2551-put-marbles-in-bags](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2551-put-marbles-in-bags) |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -621,6 +626,7 @@
 | [2017-grid-game](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2017-grid-game) |
 | [2055-plates-between-candles](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2055-plates-between-candles) |
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2485-find-the-pivot-integer](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2485-find-the-pivot-integer) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
