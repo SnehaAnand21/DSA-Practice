@@ -53,6 +53,7 @@
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3206-alternating-groups-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3206-alternating-groups-i) |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
+| [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3364-minimum-positive-sum-subarray](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3493-properties-graph](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3493-properties-graph) |
@@ -237,6 +238,7 @@
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
+| [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3389-minimum-operations-to-make-character-frequencies-equal) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3543-maximum-weighted-k-edge-path](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3543-maximum-weighted-k-edge-path) |
@@ -328,6 +330,7 @@
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
+| [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 
 ## Longest Increasing Subsequence
 |  |
@@ -479,6 +482,7 @@
 |  |
 | ------- |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
+| [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 
 ## Sweep Line
 |  |
@@ -494,3 +498,8 @@
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
+
+## Monotonic Stack
+|  |
+| ------- |
+| [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
