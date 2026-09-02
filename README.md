@@ -87,6 +87,7 @@
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [1145-binary-tree-coloring-game](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1145-binary-tree-coloring-game) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2097-valid-arrangement-of-pairs](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2097-valid-arrangement-of-pairs) |
 | [2101-detonate-the-maximum-bombs](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2101-detonate-the-maximum-bombs) |
@@ -223,6 +224,7 @@
 | ------- |
 | [0823-binary-trees-with-factors](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0823-binary-trees-with-factors) |
 | [0910-smallest-range-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0910-smallest-range-ii) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
@@ -346,6 +348,7 @@
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [1145-binary-tree-coloring-game](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1145-binary-tree-coloring-game) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2509-cycle-length-queries-in-a-tree) |
 
 ## Binary Tree
@@ -353,6 +356,7 @@
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [1145-binary-tree-coloring-game](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1145-binary-tree-coloring-game) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2509-cycle-length-queries-in-a-tree) |
 
 ## Binary Lifting
@@ -646,3 +650,8 @@
 |  |
 | ------- |
 | [0956-tallest-billboard](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0956-tallest-billboard) |
+
+## Binary Search Tree
+|  |
+| ------- |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
