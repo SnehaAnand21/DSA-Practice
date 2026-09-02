@@ -157,6 +157,7 @@
 | [0997-find-the-town-judge](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1002-find-common-characters) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1713-minimum-operations-to-make-a-subsequence) |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
@@ -240,6 +241,7 @@
 | [1163-last-substring-in-lexicographical-order](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1163-last-substring-in-lexicographical-order) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1946-largest-number-after-mutating-substring](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1946-largest-number-after-mutating-substring) |
@@ -344,6 +346,7 @@
 | [0847-shortest-path-visiting-all-nodes](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0868-binary-gap](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0868-binary-gap) |
 | [0957-prison-cells-after-n-days](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0957-prison-cells-after-n-days) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3133-minimum-array-end](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3133-minimum-array-end) |
@@ -601,6 +604,7 @@
 | [0848-shifting-letters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0848-shifting-letters) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1314-matrix-block-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1314-matrix-block-sum) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [2017-grid-game](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2017-grid-game) |
 | [2055-plates-between-candles](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2055-plates-between-candles) |
