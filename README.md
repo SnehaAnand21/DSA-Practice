@@ -35,6 +35,7 @@
 | [2122-recover-the-original-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2122-recover-the-original-array) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2453-destroy-sequential-targets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2453-destroy-sequential-targets) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [2551-put-marbles-in-bags](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2551-put-marbles-in-bags) |
@@ -304,6 +305,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1937-maximum-number-of-points-with-cost) |
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3127-make-a-square-with-the-same-color](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3127-make-a-square-with-the-same-color) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3393-count-paths-with-the-given-xor-value) |
@@ -406,6 +408,7 @@
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [2055-plates-between-candles](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2055-plates-between-candles) |
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2485-find-the-pivot-integer](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2485-find-the-pivot-integer) |
 | [3364-minimum-positive-sum-subarray](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3364-minimum-positive-sum-subarray) |
 
