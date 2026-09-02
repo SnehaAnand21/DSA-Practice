@@ -193,6 +193,7 @@
 | [3128-right-triangles](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3128-right-triangles) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3343-count-number-of-balanced-permutations](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3343-count-number-of-balanced-permutations) |
+| [3360-stone-removal-game](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3360-stone-removal-game) |
 | [3495-minimum-operations-to-make-array-elements-zero](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
 | [3516-find-closest-person](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3516-find-closest-person) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3556-sum-of-largest-prime-substrings) |
@@ -272,6 +273,7 @@
 | [1929-concatenation-of-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1929-concatenation-of-array) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3360-stone-removal-game](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3360-stone-removal-game) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3522-calculate-score-after-performing-instructions) |
 
 ## Two Pointers
