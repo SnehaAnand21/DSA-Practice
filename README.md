@@ -186,6 +186,7 @@
 ## Math
 |  |
 | ------- |
+| [0858-mirror-reflection](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0858-mirror-reflection) |
 | [0910-smallest-range-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0910-smallest-range-ii) |
 | [0957-prison-cells-after-n-days](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0957-prison-cells-after-n-days) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -291,6 +292,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0858-mirror-reflection](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0858-mirror-reflection) |
 | [2543-check-if-point-is-reachable](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2543-check-if-point-is-reachable) |
 | [3115-maximum-prime-difference](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3115-maximum-prime-difference) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3556-sum-of-largest-prime-substrings) |
@@ -624,6 +626,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0858-mirror-reflection](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0858-mirror-reflection) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1232-check-if-it-is-a-straight-line) |
 | [2101-detonate-the-maximum-bombs](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2101-detonate-the-maximum-bombs) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2481-minimum-cuts-to-divide-a-circle) |
@@ -704,6 +707,7 @@
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [0858-mirror-reflection](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0858-mirror-reflection) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2543-check-if-point-is-reachable](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2543-check-if-point-is-reachable) |
 
@@ -791,3 +795,8 @@
 |  |
 | ------- |
 | [0900-rle-iterator](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0900-rle-iterator) |
+
+## Least Common Multiple
+|  |
+| ------- |
+| [0858-mirror-reflection](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0858-mirror-reflection) |
