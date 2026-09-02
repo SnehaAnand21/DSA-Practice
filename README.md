@@ -92,6 +92,7 @@
 | [3193-count-the-number-of-inversions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3193-count-the-number-of-inversions) |
 | [3206-alternating-groups-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3206-alternating-groups-i) |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
+| [3218-minimum-cost-for-cutting-cake-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3256-maximum-value-sum-by-placing-three-rooks-i) |
 | [3282-reach-end-of-array-with-max-score](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3282-reach-end-of-array-with-max-score) |
@@ -308,6 +309,7 @@
 | [3039-apply-operations-to-make-string-empty](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
+| [3218-minimum-cost-for-cutting-cake-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3556-sum-of-largest-prime-substrings) |
 
@@ -347,6 +349,7 @@
 | [2856-minimum-array-length-after-pair-removals](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+| [3218-minimum-cost-for-cutting-cake-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 
 ## Lyndon Factorization
 |  |
@@ -398,6 +401,7 @@
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3193-count-the-number-of-inversions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3193-count-the-number-of-inversions) |
+| [3218-minimum-cost-for-cutting-cake-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3256-maximum-value-sum-by-placing-three-rooks-i) |
 | [3343-count-number-of-balanced-permutations](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3343-count-number-of-balanced-permutations) |
@@ -540,6 +544,7 @@
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
+| [3218-minimum-cost-for-cutting-cake-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3282-reach-end-of-array-with-max-score](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3282-reach-end-of-array-with-max-score) |
 
