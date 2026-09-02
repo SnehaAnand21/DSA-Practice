@@ -186,6 +186,7 @@
 |  |
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
 | [1774-closest-dessert-cost](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1774-closest-dessert-cost) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1911-maximum-alternating-subsequence-sum) |
