@@ -189,6 +189,7 @@
 | [2396-strictly-palindromic-number](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2396-strictly-palindromic-number) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2485-find-the-pivot-integer](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2485-find-the-pivot-integer) |
+| [2543-check-if-point-is-reachable](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2543-check-if-point-is-reachable) |
 | [2578-split-with-minimum-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2578-split-with-minimum-sum) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2600-k-items-with-the-maximum-sum) |
@@ -273,6 +274,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [2543-check-if-point-is-reachable](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2543-check-if-point-is-reachable) |
 | [3115-maximum-prime-difference](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3115-maximum-prime-difference) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3556-sum-of-largest-prime-substrings) |
 
@@ -662,11 +664,13 @@
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
+| [2543-check-if-point-is-reachable](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2543-check-if-point-is-reachable) |
 
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
+| [2543-check-if-point-is-reachable](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2543-check-if-point-is-reachable) |
 
 ## Monotonic Stack
 |  |
