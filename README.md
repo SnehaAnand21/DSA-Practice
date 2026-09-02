@@ -19,6 +19,7 @@
 | [1002-find-common-characters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1002-find-common-characters) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1253-reconstruct-a-2-row-binary-matrix](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1314-matrix-block-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1314-matrix-block-sum) |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1330-reverse-subarray-to-maximize-array-value) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
@@ -455,6 +456,7 @@
 |  |
 | ------- |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
+| [1253-reconstruct-a-2-row-binary-matrix](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1314-matrix-block-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1314-matrix-block-sum) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -496,6 +498,7 @@
 | [0969-pancake-sorting](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0969-pancake-sorting) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1247-minimum-swaps-to-make-strings-equal) |
+| [1253-reconstruct-a-2-row-binary-matrix](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1330-reverse-subarray-to-maximize-array-value) |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
