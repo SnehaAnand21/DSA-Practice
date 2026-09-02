@@ -35,6 +35,7 @@
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
+| [3115-maximum-prime-difference](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3115-maximum-prime-difference) |
 | [3127-make-a-square-with-the-same-color](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3127-make-a-square-with-the-same-color) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
@@ -106,6 +107,7 @@
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2266-count-number-of-texts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2266-count-number-of-texts) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2844-minimum-operations-to-make-a-special-number) |
+| [3115-maximum-prime-difference](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3115-maximum-prime-difference) |
 | [3516-find-closest-person](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3516-find-closest-person) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3556-sum-of-largest-prime-substrings) |
 
@@ -138,6 +140,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [3115-maximum-prime-difference](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3115-maximum-prime-difference) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3556-sum-of-largest-prime-substrings) |
 
 ## Simulation
@@ -350,6 +353,7 @@
 |  |
 | ------- |
 | [1175-prime-arrangements](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1175-prime-arrangements) |
+| [3115-maximum-prime-difference](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3115-maximum-prime-difference) |
 
 ## Sieve Theory
 |  |
