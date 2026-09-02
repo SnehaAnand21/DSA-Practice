@@ -20,6 +20,7 @@
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1514-path-with-maximum-probability](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1514-path-with-maximum-probability) |
+| [1535-find-the-winner-of-an-array-game](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1713-minimum-operations-to-make-a-subsequence) |
@@ -219,6 +220,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1535-find-the-winner-of-an-array-game](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1929-concatenation-of-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1929-concatenation-of-array) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3522-calculate-score-after-performing-instructions) |
