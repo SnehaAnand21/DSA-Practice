@@ -153,6 +153,7 @@
 | [1232-check-if-it-is-a-straight-line](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1330-reverse-subarray-to-maximize-array-value) |
+| [1688-count-of-matches-in-tournament](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1688-count-of-matches-in-tournament) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [2101-detonate-the-maximum-bombs](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2101-detonate-the-maximum-bombs) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2165-smallest-value-of-the-rearranged-number) |
@@ -228,6 +229,7 @@
 |  |
 | ------- |
 | [1535-find-the-winner-of-an-array-game](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1535-find-the-winner-of-an-array-game) |
+| [1688-count-of-matches-in-tournament](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1929-concatenation-of-array) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3522-calculate-score-after-performing-instructions) |
