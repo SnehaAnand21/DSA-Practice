@@ -22,6 +22,7 @@
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1314-matrix-block-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1314-matrix-block-sum) |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1330-reverse-subarray-to-maximize-array-value) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
@@ -482,6 +483,7 @@
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1314-matrix-block-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1314-matrix-block-sum) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1937-maximum-number-of-points-with-cost) |
@@ -501,6 +503,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0981-time-based-key-value-store](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0981-time-based-key-value-store) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1713-minimum-operations-to-make-a-subsequence) |
