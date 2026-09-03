@@ -129,6 +129,7 @@
 | [3398-smallest-substring-with-identical-characters-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3398-smallest-substring-with-identical-characters-i) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+| [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3425-longest-special-path](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3425-longest-special-path) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3493-properties-graph](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3493-properties-graph) |
