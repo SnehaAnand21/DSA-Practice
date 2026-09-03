@@ -272,6 +272,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1688-count-of-matches-in-tournament) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2019-the-score-of-students-solving-math-expression) |
+| [2063-vowels-of-all-substrings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2063-vowels-of-all-substrings) |
 | [2101-detonate-the-maximum-bombs](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2101-detonate-the-maximum-bombs) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2235-add-two-integers](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2235-add-two-integers) |
@@ -327,6 +328,7 @@
 | [2019-the-score-of-students-solving-math-expression](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2047-number-of-valid-words-in-a-sentence) |
 | [2055-plates-between-candles](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2055-plates-between-candles) |
+| [2063-vowels-of-all-substrings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2063-vowels-of-all-substrings) |
 | [2103-rings-and-rods](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2103-rings-and-rods) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
@@ -492,6 +494,7 @@
 | [1955-count-number-of-special-subsequences](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1955-count-number-of-special-subsequences) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2019-the-score-of-students-solving-math-expression) |
+| [2063-vowels-of-all-substrings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2063-vowels-of-all-substrings) |
 | [2266-count-number-of-texts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2266-count-number-of-texts) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2518-number-of-great-partitions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2518-number-of-great-partitions) |
@@ -871,6 +874,7 @@
 |  |
 | ------- |
 | [1643-kth-smallest-instructions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1643-kth-smallest-instructions) |
+| [2063-vowels-of-all-substrings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2063-vowels-of-all-substrings) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3128-right-triangles](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3128-right-triangles) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
