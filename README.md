@@ -106,6 +106,7 @@
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3193-count-the-number-of-inversions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3193-count-the-number-of-inversions) |
+| [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3206-alternating-groups-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3206-alternating-groups-i) |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3218-minimum-cost-for-cutting-cake-i) |
@@ -539,6 +540,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3030-find-the-grid-of-region-average](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3030-find-the-grid-of-region-average) |
 | [3127-make-a-square-with-the-same-color](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3127-make-a-square-with-the-same-color) |
+| [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3256-maximum-value-sum-by-placing-three-rooks-i) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3393-count-paths-with-the-given-xor-value) |
 
