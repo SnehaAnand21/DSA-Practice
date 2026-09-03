@@ -115,6 +115,7 @@
 | [2856-minimum-array-length-after-pair-removals](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [2933-high-access-employees](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2933-high-access-employees) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -249,6 +250,7 @@
 | [2831-find-the-longest-equal-subarray](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2831-find-the-longest-equal-subarray) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
+| [2933-high-access-employees](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2933-high-access-employees) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -367,6 +369,7 @@
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2933-high-access-employees](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2933-high-access-employees) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
@@ -420,6 +423,7 @@
 | [2597-the-number-of-beautiful-subsets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2706-buy-two-chocolates](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2706-buy-two-chocolates) |
 | [2747-count-zero-request-servers](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2747-count-zero-request-servers) |
+| [2933-high-access-employees](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2933-high-access-employees) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
