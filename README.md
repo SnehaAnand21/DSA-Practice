@@ -86,6 +86,7 @@
 | [2856-minimum-array-length-after-pair-removals](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [2944-minimum-number-of-coins-for-fruits](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3030-find-the-grid-of-region-average](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3030-find-the-grid-of-region-average) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3039-apply-operations-to-make-string-empty) |
@@ -427,6 +428,7 @@
 | [2597-the-number-of-beautiful-subsets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2746-decremental-string-concatenation](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2746-decremental-string-concatenation) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2944-minimum-number-of-coins-for-fruits](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
@@ -626,6 +628,7 @@
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2944-minimum-number-of-coins-for-fruits](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [3408-design-task-manager](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3408-design-task-manager) |
 
 ## Shortest Path
@@ -820,12 +823,14 @@
 |  |
 | ------- |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+| [2944-minimum-number-of-coins-for-fruits](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 
 ## Monotonic Queue
 |  |
 | ------- |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+| [2944-minimum-number-of-coins-for-fruits](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 
 ## Topological Sort
