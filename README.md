@@ -61,6 +61,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1851-minimum-interval-to-include-each-query) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1929-concatenation-of-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1929-concatenation-of-array) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1937-maximum-number-of-points-with-cost) |
@@ -456,6 +457,7 @@
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2122-recover-the-original-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2122-recover-the-original-array) |
@@ -668,6 +670,7 @@
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1713-minimum-operations-to-make-a-subsequence) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1851-minimum-interval-to-include-each-query) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2055-plates-between-candles](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2055-plates-between-candles) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2498-frog-jump-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2498-frog-jump-ii) |
