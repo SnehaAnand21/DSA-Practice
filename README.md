@@ -465,6 +465,7 @@
 | ------- |
 | [0823-binary-trees-with-factors](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0823-binary-trees-with-factors) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0894-all-possible-full-binary-trees](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0894-all-possible-full-binary-trees) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0956-tallest-billboard](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0956-tallest-billboard) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -544,6 +545,7 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
+| [0894-all-possible-full-binary-trees](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0894-all-possible-full-binary-trees) |
 | [1145-binary-tree-coloring-game](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1145-binary-tree-coloring-game) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -556,6 +558,7 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
+| [0894-all-possible-full-binary-trees](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0894-all-possible-full-binary-trees) |
 | [1145-binary-tree-coloring-game](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1145-binary-tree-coloring-game) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -936,6 +939,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0894-all-possible-full-binary-trees](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0894-all-possible-full-binary-trees) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 
@@ -1024,6 +1028,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0894-all-possible-full-binary-trees](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0894-all-possible-full-binary-trees) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 
 ## Linked List
