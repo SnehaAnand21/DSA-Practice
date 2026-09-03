@@ -379,6 +379,7 @@
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3389-minimum-operations-to-make-character-frequencies-equal) |
 | [3448-count-substrings-divisible-by-last-digit](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3448-count-substrings-divisible-by-last-digit) |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3556-sum-of-largest-prime-substrings) |
@@ -474,6 +475,7 @@
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3218-minimum-cost-for-cutting-cake-i) |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 
 ## Lyndon Factorization
 |  |
@@ -560,6 +562,7 @@
 | [3393-count-paths-with-the-given-xor-value](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 | [3448-count-substrings-divisible-by-last-digit](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3448-count-substrings-divisible-by-last-digit) |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3543-maximum-weighted-k-edge-path](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3543-maximum-weighted-k-edge-path) |
 | [3563-lexicographically-smallest-string-after-adjacent-removals](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3563-lexicographically-smallest-string-after-adjacent-removals) |
 
@@ -600,6 +603,7 @@
 | [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3389-minimum-operations-to-make-character-frequencies-equal) |
 | [3398-smallest-substring-with-identical-characters-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3398-smallest-substring-with-identical-characters-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 
 ## Tree
 |  |
