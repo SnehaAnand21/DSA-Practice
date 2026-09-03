@@ -109,6 +109,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3351-sum-of-good-subsequences](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3351-sum-of-good-subsequences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3364-minimum-positive-sum-subarray) |
+| [3388-count-beautiful-splits-in-an-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3388-count-beautiful-splits-in-an-array) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -427,6 +428,7 @@
 | [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3256-maximum-value-sum-by-placing-three-rooks-i) |
 | [3343-count-number-of-balanced-permutations](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3343-count-number-of-balanced-permutations) |
 | [3351-sum-of-good-subsequences](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3351-sum-of-good-subsequences) |
+| [3388-count-beautiful-splits-in-an-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3388-count-beautiful-splits-in-an-array) |
 | [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3389-minimum-operations-to-make-character-frequencies-equal) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
