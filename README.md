@@ -37,6 +37,7 @@
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1504-count-submatrices-with-all-ones](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1504-count-submatrices-with-all-ones) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1514-path-with-maximum-probability](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1514-path-with-maximum-probability) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1535-find-the-winner-of-an-array-game) |
@@ -482,6 +483,7 @@
 | [1278-palindrome-partitioning-iii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1278-palindrome-partitioning-iii) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
+| [1504-count-submatrices-with-all-ones](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1504-count-submatrices-with-all-ones) |
 | [1643-kth-smallest-instructions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1643-kth-smallest-instructions) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1774-closest-dessert-cost](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1774-closest-dessert-cost) |
@@ -592,6 +594,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
+| [1504-count-submatrices-with-all-ones](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1504-count-submatrices-with-all-ones) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
@@ -893,6 +896,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1504-count-submatrices-with-all-ones](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1504-count-submatrices-with-all-ones) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
@@ -923,6 +927,7 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1504-count-submatrices-with-all-ones](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1504-count-submatrices-with-all-ones) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 
