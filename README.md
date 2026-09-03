@@ -3,6 +3,7 @@
 ## Array
 |  |
 | ------- |
+| [0706-design-hashmap](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0706-design-hashmap) |
 | [0804-unique-morse-code-words](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0804-unique-morse-code-words) |
 | [0812-largest-triangle-area](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0812-largest-triangle-area) |
 | [0823-binary-trees-with-factors](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0823-binary-trees-with-factors) |
@@ -173,6 +174,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0706-design-hashmap](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0706-design-hashmap) |
 | [0756-pyramid-transition-matrix](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0756-pyramid-transition-matrix) |
 | [0804-unique-morse-code-words](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0804-unique-morse-code-words) |
 | [0823-binary-trees-with-factors](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0823-binary-trees-with-factors) |
@@ -711,6 +713,7 @@
 ## Design
 |  |
 | ------- |
+| [0706-design-hashmap](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0706-design-hashmap) |
 | [0900-rle-iterator](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0900-rle-iterator) |
 | [0981-time-based-key-value-store](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0981-time-based-key-value-store) |
 | [1348-tweet-counts-per-frequency](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1348-tweet-counts-per-frequency) |
@@ -772,6 +775,7 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
+| [0706-design-hashmap](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0706-design-hashmap) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 
 ## Brainteaser
@@ -950,3 +954,8 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
+
+## Linked List
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0706-design-hashmap) |
