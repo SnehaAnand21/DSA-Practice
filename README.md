@@ -44,6 +44,7 @@
 | [1929-concatenation-of-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1929-concatenation-of-array) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1946-largest-number-after-mutating-substring](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1946-largest-number-after-mutating-substring) |
+| [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 | [1955-count-number-of-special-subsequences](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1955-count-number-of-special-subsequences) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2017-grid-game](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2017-grid-game) |
@@ -525,6 +526,7 @@
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1946-largest-number-after-mutating-substring](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1946-largest-number-after-mutating-substring) |
+| [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
