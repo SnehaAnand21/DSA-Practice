@@ -205,6 +205,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0127-word-ladder) |
 | [0706-design-hashmap](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0706-design-hashmap) |
 | [0756-pyramid-transition-matrix](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0756-pyramid-transition-matrix) |
 | [0804-unique-morse-code-words](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0804-unique-morse-code-words) |
@@ -311,6 +312,7 @@
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0127-word-ladder) |
 | [0756-pyramid-transition-matrix](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0756-pyramid-transition-matrix) |
 | [0804-unique-morse-code-words](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0804-unique-morse-code-words) |
 | [0848-shifting-letters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0848-shifting-letters) |
@@ -551,6 +553,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0127-word-ladder) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -1142,3 +1145,8 @@
 |  |
 | ------- |
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
+
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0127-word-ladder) |
