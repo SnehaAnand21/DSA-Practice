@@ -69,6 +69,7 @@
 | [2498-frog-jump-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2498-frog-jump-ii) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [2551-put-marbles-in-bags](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2551-put-marbles-in-bags) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2594-minimum-time-to-repair-cars](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2594-minimum-time-to-repair-cars) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
@@ -134,6 +135,7 @@
 | [2097-valid-arrangement-of-pairs](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2097-valid-arrangement-of-pairs) |
 | [2101-detonate-the-maximum-bombs](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2101-detonate-the-maximum-bombs) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3493-properties-graph](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3493-properties-graph) |
@@ -427,6 +429,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2101-detonate-the-maximum-bombs](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2101-detonate-the-maximum-bombs) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3493-properties-graph](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3493-properties-graph) |
 
@@ -491,6 +494,7 @@
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3030-find-the-grid-of-region-average](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3030-find-the-grid-of-region-average) |
 | [3127-make-a-square-with-the-same-color](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3127-make-a-square-with-the-same-color) |
@@ -595,6 +599,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2551-put-marbles-in-bags](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2551-put-marbles-in-bags) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3408-design-task-manager](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3408-design-task-manager) |
@@ -603,6 +608,7 @@
 |  |
 | ------- |
 | [1514-path-with-maximum-probability](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1514-path-with-maximum-probability) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 
