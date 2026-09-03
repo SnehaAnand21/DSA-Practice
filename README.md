@@ -19,6 +19,7 @@
 | [0997-find-the-town-judge](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0997-find-the-town-judge) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1002-find-common-characters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1002-find-common-characters) |
+| [1032-stream-of-characters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1032-stream-of-characters) |
 | [1051-height-checker](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1051-height-checker) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -275,6 +276,7 @@
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0981-time-based-key-value-store](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0981-time-based-key-value-store) |
 | [1002-find-common-characters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1002-find-common-characters) |
+| [1032-stream-of-characters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1032-stream-of-characters) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1163-last-substring-in-lexicographical-order](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1163-last-substring-in-lexicographical-order) |
@@ -718,6 +720,7 @@
 | [0706-design-hashmap](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0706-design-hashmap) |
 | [0900-rle-iterator](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0900-rle-iterator) |
 | [0981-time-based-key-value-store](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0981-time-based-key-value-store) |
+| [1032-stream-of-characters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1032-stream-of-characters) |
 | [1348-tweet-counts-per-frequency](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1348-tweet-counts-per-frequency) |
 | [1845-seat-reservation-manager](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1845-seat-reservation-manager) |
 | [3408-design-task-manager](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3408-design-task-manager) |
@@ -895,6 +898,7 @@
 ## Trie
 |  |
 | ------- |
+| [1032-stream-of-characters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1032-stream-of-characters) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1707-maximum-xor-with-an-element-from-array) |
 
 ## Rolling Hash
@@ -961,3 +965,13 @@
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0706-design-hashmap) |
+
+## Data Stream
+|  |
+| ------- |
+| [1032-stream-of-characters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1032-stream-of-characters) |
+
+## Aho–Corasick Algorithm
+|  |
+| ------- |
+| [1032-stream-of-characters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1032-stream-of-characters) |
