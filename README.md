@@ -280,6 +280,7 @@
 | [1348-tweet-counts-per-frequency](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1348-tweet-counts-per-frequency) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1616-split-two-strings-to-make-palindrome) |
+| [1678-goal-parser-interpretation](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1678-goal-parser-interpretation) |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1946-largest-number-after-mutating-substring](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1946-largest-number-after-mutating-substring) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
