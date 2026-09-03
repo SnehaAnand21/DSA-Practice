@@ -277,6 +277,7 @@
 | [1643-kth-smallest-instructions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1643-kth-smallest-instructions) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1688-count-of-matches-in-tournament](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1688-count-of-matches-in-tournament) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2063-vowels-of-all-substrings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2063-vowels-of-all-substrings) |
@@ -331,6 +332,7 @@
 | [1678-goal-parser-interpretation](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1678-goal-parser-interpretation) |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1946-largest-number-after-mutating-substring](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1946-largest-number-after-mutating-substring) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2019-the-score-of-students-solving-math-expression) |
