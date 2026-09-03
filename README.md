@@ -132,6 +132,7 @@
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
+| [3248-snake-in-matrix](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3248-snake-in-matrix) |
 | [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3256-maximum-value-sum-by-placing-three-rooks-i) |
 | [3282-reach-end-of-array-with-max-score](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3282-reach-end-of-array-with-max-score) |
 | [3287-find-the-maximum-sequence-value-of-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3287-find-the-maximum-sequence-value-of-array) |
@@ -362,6 +363,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
+| [3248-snake-in-matrix](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3248-snake-in-matrix) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3343-count-number-of-balanced-permutations](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3343-count-number-of-balanced-permutations) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
@@ -436,6 +438,7 @@
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2682-find-the-losers-of-the-circular-game) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3248-snake-in-matrix](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3248-snake-in-matrix) |
 | [3360-stone-removal-game](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3360-stone-removal-game) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3522-calculate-score-after-performing-instructions) |
 
