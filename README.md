@@ -22,6 +22,7 @@
 | [0997-find-the-town-judge](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0997-find-the-town-judge) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1002-find-common-characters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1002-find-common-characters) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1032-stream-of-characters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1032-stream-of-characters) |
 | [1048-longest-string-chain](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1048-longest-string-chain) |
 | [1051-height-checker](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1051-height-checker) |
@@ -692,6 +693,7 @@
 | ------- |
 | [0910-smallest-range-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0910-smallest-range-ii) |
 | [0969-pancake-sorting](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0969-pancake-sorting) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
