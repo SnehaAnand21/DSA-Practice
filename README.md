@@ -106,6 +106,7 @@
 | [2747-count-zero-request-servers](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2747-count-zero-request-servers) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2826-sorting-three-groups](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2826-sorting-three-groups) |
 | [2831-find-the-longest-equal-subarray](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2831-find-the-longest-equal-subarray) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
@@ -529,6 +530,7 @@
 | [2518-number-of-great-partitions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2518-number-of-great-partitions) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2746-decremental-string-concatenation](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2746-decremental-string-concatenation) |
+| [2826-sorting-three-groups](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2826-sorting-three-groups) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2944-minimum-number-of-coins-for-fruits) |
@@ -669,6 +671,7 @@
 | [2498-frog-jump-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2498-frog-jump-ii) |
 | [2594-minimum-time-to-repair-cars](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2594-minimum-time-to-repair-cars) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2826-sorting-three-groups](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2826-sorting-three-groups) |
 | [2831-find-the-longest-equal-subarray](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2831-find-the-longest-equal-subarray) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
