@@ -55,6 +55,7 @@
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1713-minimum-operations-to-make-a-subsequence) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
+| [1733-minimum-number-of-people-to-teach](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1774-closest-dessert-cost](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1774-closest-dessert-cost) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
@@ -228,6 +229,7 @@
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1713-minimum-operations-to-make-a-subsequence) |
+| [1733-minimum-number-of-people-to-teach](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1817-finding-the-users-active-minutes](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1817-finding-the-users-active-minutes) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2019-the-score-of-students-solving-math-expression) |
@@ -710,6 +712,7 @@
 | [1642-furthest-building-you-can-reach](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1642-furthest-building-you-can-reach) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1713-minimum-operations-to-make-a-subsequence) |
+| [1733-minimum-number-of-people-to-teach](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
