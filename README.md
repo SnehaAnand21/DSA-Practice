@@ -22,6 +22,7 @@
 | [1032-stream-of-characters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1032-stream-of-characters) |
 | [1051-height-checker](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1051-height-checker) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
+| [1140-stone-game-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1300-sum-of-mutated-array-closest-to-target) |
@@ -235,6 +236,7 @@
 | [0910-smallest-range-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0910-smallest-range-ii) |
 | [0957-prison-cells-after-n-days](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0957-prison-cells-after-n-days) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1140-stone-game-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1175-prime-arrangements](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1175-prime-arrangements) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
@@ -434,6 +436,7 @@
 | [0956-tallest-billboard](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0956-tallest-billboard) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1000-minimum-cost-to-merge-stones) |
+| [1140-stone-game-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
 | [1643-kth-smallest-instructions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1643-kth-smallest-instructions) |
@@ -703,6 +706,7 @@
 | [0848-shifting-letters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0848-shifting-letters) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1000-minimum-cost-to-merge-stones) |
+| [1140-stone-game-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1314-matrix-block-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1314-matrix-block-sum) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
@@ -984,3 +988,18 @@
 |  |
 | ------- |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1140-stone-game-ii) |
+
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1140-stone-game-ii) |
+
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1140-stone-game-ii) |
