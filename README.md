@@ -307,6 +307,7 @@
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1278-palindrome-partitioning-iii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1278-palindrome-partitioning-iii) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
+| [1328-break-a-palindrome](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1328-break-a-palindrome) |
 | [1348-tweet-counts-per-frequency](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1348-tweet-counts-per-frequency) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1616-split-two-strings-to-make-palindrome) |
@@ -624,6 +625,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
+| [1328-break-a-palindrome](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1328-break-a-palindrome) |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1330-reverse-subarray-to-maximize-array-value) |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
