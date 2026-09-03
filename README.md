@@ -93,6 +93,7 @@
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2944-minimum-number-of-coins-for-fruits) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3030-find-the-grid-of-region-average](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3030-find-the-grid-of-region-average) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3039-apply-operations-to-make-string-empty) |
@@ -209,6 +210,7 @@
 | [2747-count-zero-request-servers](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2747-count-zero-request-servers) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3128-right-triangles](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3128-right-triangles) |
@@ -495,6 +497,7 @@
 | [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [2122-recover-the-original-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2122-recover-the-original-array) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2844-minimum-operations-to-make-a-special-number) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3127-make-a-square-with-the-same-color](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3127-make-a-square-with-the-same-color) |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 | [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3256-maximum-value-sum-by-placing-three-rooks-i) |
