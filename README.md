@@ -122,6 +122,7 @@
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3388-count-beautiful-splits-in-an-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3388-count-beautiful-splits-in-an-array) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3393-count-paths-with-the-given-xor-value) |
+| [3398-smallest-substring-with-identical-characters-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3398-smallest-substring-with-identical-characters-i) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3425-longest-special-path](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3425-longest-special-path) |
@@ -502,6 +503,7 @@
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 | [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3256-maximum-value-sum-by-placing-three-rooks-i) |
 | [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3389-minimum-operations-to-make-character-frequencies-equal) |
+| [3398-smallest-substring-with-identical-characters-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3398-smallest-substring-with-identical-characters-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 
 ## Tree
@@ -579,6 +581,7 @@
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
+| [3398-smallest-substring-with-identical-characters-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3398-smallest-substring-with-identical-characters-i) |
 
 ## Greedy
 |  |
