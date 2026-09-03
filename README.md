@@ -20,6 +20,7 @@
 | [1000-minimum-cost-to-merge-stones](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1002-find-common-characters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1002-find-common-characters) |
 | [1032-stream-of-characters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1032-stream-of-characters) |
+| [1048-longest-string-chain](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1048-longest-string-chain) |
 | [1051-height-checker](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1051-height-checker) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1140-stone-game-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1140-stone-game-ii) |
@@ -194,6 +195,7 @@
 | [0981-time-based-key-value-store](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0981-time-based-key-value-store) |
 | [0997-find-the-town-judge](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1002-find-common-characters) |
+| [1048-longest-string-chain](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1048-longest-string-chain) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1348-tweet-counts-per-frequency](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1348-tweet-counts-per-frequency) |
@@ -291,6 +293,7 @@
 | [0981-time-based-key-value-store](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0981-time-based-key-value-store) |
 | [1002-find-common-characters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1002-find-common-characters) |
 | [1032-stream-of-characters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1032-stream-of-characters) |
+| [1048-longest-string-chain](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1048-longest-string-chain) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1163-last-substring-in-lexicographical-order](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1163-last-substring-in-lexicographical-order) |
@@ -342,6 +345,7 @@
 | [0823-binary-trees-with-factors](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0823-binary-trees-with-factors) |
 | [0910-smallest-range-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0910-smallest-range-ii) |
 | [0969-pancake-sorting](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0969-pancake-sorting) |
+| [1048-longest-string-chain](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1048-longest-string-chain) |
 | [1051-height-checker](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1051-height-checker) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -397,6 +401,7 @@
 |  |
 | ------- |
 | [0969-pancake-sorting](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0969-pancake-sorting) |
+| [1048-longest-string-chain](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1048-longest-string-chain) |
 | [1163-last-substring-in-lexicographical-order](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1163-last-substring-in-lexicographical-order) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1616-split-two-strings-to-make-palindrome) |
@@ -450,6 +455,7 @@
 | [0956-tallest-billboard](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0956-tallest-billboard) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1000-minimum-cost-to-merge-stones) |
+| [1048-longest-string-chain](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1278-palindrome-partitioning-iii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1278-palindrome-partitioning-iii) |
