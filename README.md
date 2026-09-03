@@ -98,6 +98,7 @@
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2682-find-the-losers-of-the-circular-game) |
 | [2683-neighboring-bitwise-xor](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2683-neighboring-bitwise-xor) |
+| [2706-buy-two-chocolates](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2706-buy-two-chocolates) |
 | [2746-decremental-string-concatenation](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2746-decremental-string-concatenation) |
 | [2747-count-zero-request-servers](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2747-count-zero-request-servers) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -391,6 +392,7 @@
 | [2551-put-marbles-in-bags](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2551-put-marbles-in-bags) |
 | [2578-split-with-minimum-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2578-split-with-minimum-sum) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2597-the-number-of-beautiful-subsets) |
+| [2706-buy-two-chocolates](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2706-buy-two-chocolates) |
 | [2747-count-zero-request-servers](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2747-count-zero-request-servers) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3068-find-the-maximum-sum-of-node-values) |
@@ -683,6 +685,7 @@
 | [2551-put-marbles-in-bags](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2551-put-marbles-in-bags) |
 | [2578-split-with-minimum-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2578-split-with-minimum-sum) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2600-k-items-with-the-maximum-sum) |
+| [2706-buy-two-chocolates](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2706-buy-two-chocolates) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
