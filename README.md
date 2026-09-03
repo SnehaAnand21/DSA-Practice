@@ -82,6 +82,7 @@
 | [2428-maximum-sum-of-an-hourglass](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2453-destroy-sequential-targets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2453-destroy-sequential-targets) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2498-frog-jump-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2498-frog-jump-ii) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [2518-number-of-great-partitions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2518-number-of-great-partitions) |
@@ -327,6 +328,7 @@
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2266-count-number-of-texts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2266-count-number-of-texts) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2531-make-number-of-distinct-characters-equal) |
 | [2609-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2609-find-the-longest-balanced-substring-of-a-binary-string) |
 | [2746-decremental-string-concatenation](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2746-decremental-string-concatenation) |
