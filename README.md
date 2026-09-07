@@ -91,6 +91,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [2451-odd-string-difference](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2451-odd-string-difference) |
 | [2453-destroy-sequential-targets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2453-destroy-sequential-targets) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
@@ -422,6 +423,7 @@
 | [2225-find-players-with-zero-or-one-losses](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [2551-put-marbles-in-bags](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2551-put-marbles-in-bags) |
 | [2578-split-with-minimum-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2578-split-with-minimum-sum) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -738,6 +740,7 @@
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [2498-frog-jump-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2498-frog-jump-ii) |
 | [2551-put-marbles-in-bags](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2551-put-marbles-in-bags) |
 | [2578-split-with-minimum-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2578-split-with-minimum-sum) |
