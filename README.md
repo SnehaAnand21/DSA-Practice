@@ -385,6 +385,7 @@
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3114-latest-time-you-can-obtain-after-replacing-characters) |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 | [3248-snake-in-matrix](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3248-snake-in-matrix) |
@@ -615,6 +616,7 @@
 | [2261-k-divisible-elements-subarrays](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2261-k-divisible-elements-subarrays) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3114-latest-time-you-can-obtain-after-replacing-characters) |
 | [3127-make-a-square-with-the-same-color](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3127-make-a-square-with-the-same-color) |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 | [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3256-maximum-value-sum-by-placing-three-rooks-i) |
