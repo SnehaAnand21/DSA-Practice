@@ -57,6 +57,7 @@
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1713-minimum-operations-to-make-a-subsequence) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1733-minimum-number-of-people-to-teach) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1774-closest-dessert-cost](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1774-closest-dessert-cost) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
@@ -420,6 +421,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -513,6 +515,7 @@
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1803-count-pairs-with-xor-in-a-range](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1803-count-pairs-with-xor-in-a-range) |
 | [2401-longest-nice-subarray](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2401-longest-nice-subarray) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2588-count-the-number-of-beautiful-subarrays) |
@@ -674,6 +677,7 @@
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1504-count-submatrices-with-all-ones](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1504-count-submatrices-with-all-ones) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2017-grid-game](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2017-grid-game) |
@@ -806,6 +810,7 @@
 | [1514-path-with-maximum-probability](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1514-path-with-maximum-probability) |
 | [1642-furthest-building-you-can-reach](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1642-furthest-building-you-can-reach) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1845-seat-reservation-manager](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1845-seat-reservation-manager) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -869,6 +874,7 @@
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2017-grid-game](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2017-grid-game) |
 | [2055-plates-between-candles](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2055-plates-between-candles) |
@@ -1137,6 +1143,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0918-maximum-sum-circular-subarray) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 
 ## Counting Sort
@@ -1210,3 +1217,4 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
