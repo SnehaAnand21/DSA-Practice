@@ -238,6 +238,7 @@
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1348-tweet-counts-per-frequency](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1348-tweet-counts-per-frequency) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1400-construct-k-palindrome-strings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1400-construct-k-palindrome-strings) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1713-minimum-operations-to-make-a-subsequence) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1733-minimum-number-of-people-to-teach) |
@@ -356,6 +357,7 @@
 | [1328-break-a-palindrome](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1328-break-a-palindrome) |
 | [1348-tweet-counts-per-frequency](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1348-tweet-counts-per-frequency) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1400-construct-k-palindrome-strings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1400-construct-k-palindrome-strings) |
 | [1598-crawler-log-folder](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1598-crawler-log-folder) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1678-goal-parser-interpretation](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1678-goal-parser-interpretation) |
@@ -738,6 +740,7 @@
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1328-break-a-palindrome](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1328-break-a-palindrome) |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1330-reverse-subarray-to-maximize-array-value) |
+| [1400-construct-k-palindrome-strings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1400-construct-k-palindrome-strings) |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -788,6 +791,7 @@
 | ------- |
 | [0900-rle-iterator](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0900-rle-iterator) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
+| [1400-construct-k-palindrome-strings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1400-construct-k-palindrome-strings) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
