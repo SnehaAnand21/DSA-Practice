@@ -143,6 +143,7 @@
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3193-count-the-number-of-inversions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3193-count-the-number-of-inversions) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
+| [3196-maximize-total-cost-of-alternating-subarrays](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3196-maximize-total-cost-of-alternating-subarrays) |
 | [3206-alternating-groups-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3206-alternating-groups-i) |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3218-minimum-cost-for-cutting-cake-i) |
@@ -579,6 +580,7 @@
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3193-count-the-number-of-inversions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3193-count-the-number-of-inversions) |
+| [3196-maximize-total-cost-of-alternating-subarrays](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3196-maximize-total-cost-of-alternating-subarrays) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3256-maximum-value-sum-by-placing-three-rooks-i) |
