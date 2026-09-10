@@ -12,6 +12,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0881-boats-to-save-people](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0881-boats-to-save-people) |
 | [0900-rle-iterator](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0900-rle-iterator) |
+| [0905-sort-array-by-parity](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0905-sort-array-by-parity) |
 | [0910-smallest-range-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0910-smallest-range-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0956-tallest-billboard](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0956-tallest-billboard) |
@@ -415,6 +416,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0823-binary-trees-with-factors](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0823-binary-trees-with-factors) |
 | [0881-boats-to-save-people](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0905-sort-array-by-parity) |
 | [0910-smallest-range-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0910-smallest-range-ii) |
 | [0969-pancake-sorting](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0969-pancake-sorting) |
 | [1048-longest-string-chain](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1048-longest-string-chain) |
@@ -487,6 +489,7 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0905-sort-array-by-parity) |
 | [0969-pancake-sorting](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0969-pancake-sorting) |
 | [1048-longest-string-chain](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1048-longest-string-chain) |
 | [1163-last-substring-in-lexicographical-order](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1163-last-substring-in-lexicographical-order) |
