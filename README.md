@@ -370,6 +370,7 @@
 | [1598-crawler-log-folder](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1598-crawler-log-folder) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1678-goal-parser-interpretation](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1678-goal-parser-interpretation) |
+| [1702-maximum-binary-string-after-change](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1702-maximum-binary-string-after-change) |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1759-count-number-of-homogenous-substrings) |
@@ -765,6 +766,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1642-furthest-building-you-can-reach](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1642-furthest-building-you-can-reach) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
+| [1702-maximum-binary-string-after-change](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1702-maximum-binary-string-after-change) |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1713-minimum-operations-to-make-a-subsequence) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
