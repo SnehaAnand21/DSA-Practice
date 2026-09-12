@@ -331,6 +331,7 @@
 | [2597-the-number-of-beautiful-subsets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2844-minimum-operations-to-make-a-special-number) |
+| [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3101-count-alternating-subarrays](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3101-count-alternating-subarrays) |
@@ -596,6 +597,7 @@
 | [2826-sorting-three-groups](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2826-sorting-three-groups) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
+| [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3149-find-the-minimum-cost-array-permutation) |
@@ -1015,6 +1017,7 @@
 | [1643-kth-smallest-instructions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1643-kth-smallest-instructions) |
 | [2063-vowels-of-all-substrings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2063-vowels-of-all-substrings) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2597-the-number-of-beautiful-subsets) |
+| [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [3128-right-triangles](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3128-right-triangles) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3343-count-number-of-balanced-permutations](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3343-count-number-of-balanced-permutations) |
