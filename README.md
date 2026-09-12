@@ -163,6 +163,7 @@
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3388-count-beautiful-splits-in-an-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3388-count-beautiful-splits-in-an-array) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3393-count-paths-with-the-given-xor-value) |
+| [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3398-smallest-substring-with-identical-characters-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3398-smallest-substring-with-identical-characters-i) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -459,6 +460,7 @@
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3288-length-of-the-longest-increasing-path](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3288-length-of-the-longest-increasing-path) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
+| [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3556-sum-of-largest-prime-substrings) |
 
 ## Number Theory
@@ -794,6 +796,7 @@
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3282-reach-end-of-array-with-max-score](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3282-reach-end-of-array-with-max-score) |
+| [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 
 ## Longest Increasing Subsequence
 |  |
