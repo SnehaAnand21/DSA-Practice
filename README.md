@@ -343,6 +343,7 @@
 | [3101-count-alternating-subarrays](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3101-count-alternating-subarrays) |
 | [3115-maximum-prime-difference](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3115-maximum-prime-difference) |
 | [3128-right-triangles](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3128-right-triangles) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3343-count-number-of-balanced-permutations](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3343-count-number-of-balanced-permutations) |
@@ -559,6 +560,7 @@
 | [3133-minimum-array-end](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3133-minimum-array-end) |
 | [3145-find-products-of-elements-of-big-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3145-find-products-of-elements-of-big-array) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3149-find-the-minimum-cost-array-permutation) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 | [3287-find-the-maximum-sequence-value-of-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3287-find-the-maximum-sequence-value-of-array) |
@@ -610,6 +612,7 @@
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3149-find-the-minimum-cost-array-permutation) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3193-count-the-number-of-inversions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3193-count-the-number-of-inversions) |
 | [3196-maximize-total-cost-of-alternating-subarrays](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3196-maximize-total-cost-of-alternating-subarrays) |
@@ -1033,6 +1036,7 @@
 | [2597-the-number-of-beautiful-subsets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [3128-right-triangles](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3128-right-triangles) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3343-count-number-of-balanced-permutations](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3343-count-number-of-balanced-permutations) |
 
@@ -1123,6 +1127,7 @@
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 
 ## Meet in the Middle
 |  |
