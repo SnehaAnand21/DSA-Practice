@@ -81,6 +81,7 @@
 | [2012-sum-of-beauty-in-the-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2017-grid-game](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2017-grid-game) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2019-the-score-of-students-solving-math-expression) |
+| [2039-the-time-when-the-network-becomes-idle](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2055-plates-between-candles](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2055-plates-between-candles) |
 | [2059-minimum-operations-to-convert-number](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2059-minimum-operations-to-convert-number) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
@@ -201,6 +202,7 @@
 | [0997-find-the-town-judge](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0997-find-the-town-judge) |
 | [1514-path-with-maximum-probability](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1514-path-with-maximum-probability) |
 | [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
+| [2039-the-time-when-the-network-becomes-idle](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2097-valid-arrangement-of-pairs](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2097-valid-arrangement-of-pairs) |
 | [2101-detonate-the-maximum-bombs](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -629,6 +631,7 @@
 | [0847-shortest-path-visiting-all-nodes](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2039-the-time-when-the-network-becomes-idle](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2059-minimum-operations-to-convert-number](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2059-minimum-operations-to-convert-number) |
 | [2101-detonate-the-maximum-bombs](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
