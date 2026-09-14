@@ -264,6 +264,7 @@
 | [2122-recover-the-original-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2122-recover-the-original-array) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2261-k-divisible-elements-subarrays](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2261-k-divisible-elements-subarrays) |
 | [2266-count-number-of-texts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2266-count-number-of-texts) |
@@ -396,6 +397,7 @@
 | [2129-capitalize-the-title](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2129-capitalize-the-title) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2266-count-number-of-texts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2266-count-number-of-texts) |
 | [2451-odd-string-difference](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2451-odd-string-difference) |
@@ -837,6 +839,7 @@
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2453-destroy-sequential-targets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2453-destroy-sequential-targets) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2531-make-number-of-distinct-characters-equal) |
