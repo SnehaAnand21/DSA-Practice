@@ -5,6 +5,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0706-design-hashmap](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0706-design-hashmap) |
+| [0752-open-the-lock](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0752-open-the-lock) |
 | [0804-unique-morse-code-words](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0804-unique-morse-code-words) |
 | [0812-largest-triangle-area](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0812-largest-triangle-area) |
 | [0823-binary-trees-with-factors](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0823-binary-trees-with-factors) |
@@ -241,6 +242,7 @@
 | ------- |
 | [0127-word-ladder](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0127-word-ladder) |
 | [0706-design-hashmap](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0706-design-hashmap) |
+| [0752-open-the-lock](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0752-open-the-lock) |
 | [0756-pyramid-transition-matrix](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0756-pyramid-transition-matrix) |
 | [0804-unique-morse-code-words](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0804-unique-morse-code-words) |
 | [0823-binary-trees-with-factors](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0823-binary-trees-with-factors) |
@@ -365,6 +367,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0127-word-ladder) |
+| [0752-open-the-lock](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0752-open-the-lock) |
 | [0756-pyramid-transition-matrix](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0756-pyramid-transition-matrix) |
 | [0804-unique-morse-code-words](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0804-unique-morse-code-words) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
@@ -648,6 +651,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0127-word-ladder) |
+| [0752-open-the-lock](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0752-open-the-lock) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -1292,6 +1296,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0127-word-ladder) |
+| [0752-open-the-lock](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0752-open-the-lock) |
 
 ## Quickselect
 |  |
