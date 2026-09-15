@@ -179,6 +179,7 @@
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3425-longest-special-path](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3425-longest-special-path) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
+| [3484-design-spreadsheet](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3484-design-spreadsheet) |
 | [3493-properties-graph](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3493-properties-graph) |
 | [3495-minimum-operations-to-make-array-elements-zero](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3522-calculate-score-after-performing-instructions) |
@@ -298,6 +299,7 @@
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 | [3425-longest-special-path](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3425-longest-special-path) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
+| [3484-design-spreadsheet](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3484-design-spreadsheet) |
 | [3493-properties-graph](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3493-properties-graph) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -430,6 +432,7 @@
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3389-minimum-operations-to-make-character-frequencies-equal) |
 | [3448-count-substrings-divisible-by-last-digit](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3448-count-substrings-divisible-by-last-digit) |
+| [3484-design-spreadsheet](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3484-design-spreadsheet) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -746,6 +749,7 @@
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3256-maximum-value-sum-by-placing-three-rooks-i) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3393-count-paths-with-the-given-xor-value) |
+| [3484-design-spreadsheet](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3484-design-spreadsheet) |
 
 ## Binary Search
 |  |
@@ -964,6 +968,7 @@
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [1912-design-movie-rental-system](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1912-design-movie-rental-system) |
 | [3408-design-task-manager](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3408-design-task-manager) |
+| [3484-design-spreadsheet](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3484-design-spreadsheet) |
 
 ## Ordered Set
 |  |
