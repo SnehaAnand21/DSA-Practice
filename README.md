@@ -160,6 +160,7 @@
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
+| [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 | [3248-snake-in-matrix](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3248-snake-in-matrix) |
 | [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3256-maximum-value-sum-by-placing-three-rooks-i) |
 | [3282-reach-end-of-array-with-max-score](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3282-reach-end-of-array-with-max-score) |
@@ -216,6 +217,7 @@
 | [2603-collect-coins-in-a-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2603-collect-coins-in-a-tree) |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 | [3493-properties-graph](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3493-properties-graph) |
 | [3543-maximum-weighted-k-edge-path](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3543-maximum-weighted-k-edge-path) |
 
@@ -836,6 +838,7 @@
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
+| [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 | [3282-reach-end-of-array-with-max-score](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3282-reach-end-of-array-with-max-score) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 
@@ -977,6 +980,7 @@
 | ------- |
 | [1348-tweet-counts-per-frequency](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1348-tweet-counts-per-frequency) |
 | [1912-design-movie-rental-system](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1912-design-movie-rental-system) |
+| [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 | [3408-design-task-manager](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3408-design-task-manager) |
 
 ## Sliding Window
