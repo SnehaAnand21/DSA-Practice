@@ -172,6 +172,7 @@
 | [3393-count-paths-with-the-given-xor-value](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3398-smallest-substring-with-identical-characters-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3398-smallest-substring-with-identical-characters-i) |
+| [3404-count-special-subsequences](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3404-count-special-subsequences) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -291,6 +292,7 @@
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3389-minimum-operations-to-make-character-frequencies-equal) |
+| [3404-count-special-subsequences](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3404-count-special-subsequences) |
 | [3408-design-task-manager](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3408-design-task-manager) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 | [3425-longest-special-path](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3425-longest-special-path) |
@@ -349,6 +351,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3343-count-number-of-balanced-permutations](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3343-count-number-of-balanced-permutations) |
 | [3360-stone-removal-game](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3360-stone-removal-game) |
+| [3404-count-special-subsequences](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3404-count-special-subsequences) |
 | [3495-minimum-operations-to-make-array-elements-zero](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
 | [3516-find-closest-person](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3516-find-closest-person) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3556-sum-of-largest-prime-substrings) |
@@ -675,6 +678,7 @@
 | [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3256-maximum-value-sum-by-placing-three-rooks-i) |
 | [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3389-minimum-operations-to-make-character-frequencies-equal) |
 | [3398-smallest-substring-with-identical-characters-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3398-smallest-substring-with-identical-characters-i) |
+| [3404-count-special-subsequences](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3404-count-special-subsequences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 
