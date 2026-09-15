@@ -95,6 +95,7 @@
 | [2185-counting-words-with-a-given-prefix](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2239-find-closest-number-to-zero](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2239-find-closest-number-to-zero) |
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
 | [2261-k-divisible-elements-subarrays](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2261-k-divisible-elements-subarrays) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
