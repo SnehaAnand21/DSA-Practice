@@ -180,6 +180,7 @@
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3425-longest-special-path](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3425-longest-special-path) |
+| [3457-eat-pizzas](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3457-eat-pizzas) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3484-design-spreadsheet](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3484-design-spreadsheet) |
 | [3493-properties-graph](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3493-properties-graph) |
@@ -494,6 +495,7 @@
 | [3288-length-of-the-longest-increasing-path](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3288-length-of-the-longest-increasing-path) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
+| [3457-eat-pizzas](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3457-eat-pizzas) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3556-sum-of-largest-prime-substrings) |
 
 ## Number Theory
@@ -845,6 +847,7 @@
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 | [3282-reach-end-of-array-with-max-score](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3282-reach-end-of-array-with-max-score) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
+| [3457-eat-pizzas](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3457-eat-pizzas) |
 
 ## Longest Increasing Subsequence
 |  |
