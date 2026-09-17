@@ -79,6 +79,7 @@
 | [1946-largest-number-after-mutating-substring](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1946-largest-number-after-mutating-substring) |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 | [1955-count-number-of-special-subsequences](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1955-count-number-of-special-subsequences) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2017-grid-game](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2017-grid-game) |
@@ -335,6 +336,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1688-count-of-matches-in-tournament) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2063-vowels-of-all-substrings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2063-vowels-of-all-substrings) |
 | [2101-detonate-the-maximum-bombs](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2101-detonate-the-maximum-bombs) |
@@ -504,6 +506,7 @@
 |  |
 | ------- |
 | [0858-mirror-reflection](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0858-mirror-reflection) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2543-check-if-point-is-reachable](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2543-check-if-point-is-reachable) |
 | [2761-prime-pairs-with-target-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2761-prime-pairs-with-target-sum) |
 | [3115-maximum-prime-difference](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3115-maximum-prime-difference) |
@@ -1109,6 +1112,7 @@
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2543-check-if-point-is-reachable](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2543-check-if-point-is-reachable) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 
@@ -1117,6 +1121,7 @@
 | ------- |
 | [0858-mirror-reflection](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0858-mirror-reflection) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2543-check-if-point-is-reachable](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2543-check-if-point-is-reachable) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 
