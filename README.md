@@ -99,6 +99,7 @@
 | [2239-find-closest-number-to-zero](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2239-find-closest-number-to-zero) |
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
 | [2261-k-divisible-elements-subarrays](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2261-k-divisible-elements-subarrays) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2401-longest-nice-subarray](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2401-longest-nice-subarray) |
@@ -620,6 +621,7 @@
 | [2019-the-score-of-students-solving-math-expression](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2063-vowels-of-all-substrings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2063-vowels-of-all-substrings) |
 | [2266-count-number-of-texts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2266-count-number-of-texts) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2518-number-of-great-partitions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2518-number-of-great-partitions) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -750,6 +752,7 @@
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2017-grid-game](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2017-grid-game) |
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
@@ -1211,6 +1214,7 @@
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 
 ## Iterator
 |  |
