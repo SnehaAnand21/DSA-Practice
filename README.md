@@ -31,6 +31,7 @@
 | [1048-longest-string-chain](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1048-longest-string-chain) |
 | [1051-height-checker](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1051-height-checker) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
+| [1093-statistics-from-a-large-sample](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1093-statistics-from-a-large-sample) |
 | [1094-car-pooling](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -322,6 +323,7 @@
 | [0910-smallest-range-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0910-smallest-range-ii) |
 | [0957-prison-cells-after-n-days](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0957-prison-cells-after-n-days) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1093-statistics-from-a-large-sample](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1093-statistics-from-a-large-sample) |
 | [1103-distribute-candies-to-people](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1103-distribute-candies-to-people) |
 | [1140-stone-game-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1175-prime-arrangements](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1175-prime-arrangements) |
@@ -1322,3 +1324,8 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0881-boats-to-save-people) |
+
+## Probability and Statistics
+|  |
+| ------- |
+| [1093-statistics-from-a-large-sample](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1093-statistics-from-a-large-sample) |
