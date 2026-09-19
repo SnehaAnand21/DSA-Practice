@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0565-array-nesting](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0565-array-nesting) |
 | [0706-design-hashmap](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0706-design-hashmap) |
 | [0752-open-the-lock](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0752-open-the-lock) |
 | [0804-unique-morse-code-words](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0804-unique-morse-code-words) |
@@ -194,6 +195,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0565-array-nesting](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0565-array-nesting) |
 | [0572-subtree-of-another-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [1145-binary-tree-coloring-game](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1145-binary-tree-coloring-game) |
 | [1202-smallest-string-with-swaps](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1202-smallest-string-with-swaps) |
