@@ -210,6 +210,7 @@
 |  |
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [0997-find-the-town-judge](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0997-find-the-town-judge) |
 | [1514-path-with-maximum-probability](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1514-path-with-maximum-probability) |
 | [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
@@ -894,6 +895,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [1094-car-pooling](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1094-car-pooling) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1514-path-with-maximum-probability](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1514-path-with-maximum-probability) |
@@ -915,6 +917,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [1514-path-with-maximum-probability](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1514-path-with-maximum-probability) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
@@ -1081,6 +1084,7 @@
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [1514-path-with-maximum-probability](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1514-path-with-maximum-probability) |
 
 ## Segment Tree
