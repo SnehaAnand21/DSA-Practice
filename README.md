@@ -387,6 +387,7 @@
 | [0756-pyramid-transition-matrix](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0756-pyramid-transition-matrix) |
 | [0804-unique-morse-code-words](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0804-unique-morse-code-words) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
+| [0844-backspace-string-compare](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0844-backspace-string-compare) |
 | [0848-shifting-letters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0848-shifting-letters) |
 | [0859-buddy-strings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0859-buddy-strings) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -532,6 +533,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0844-backspace-string-compare) |
 | [1094-car-pooling](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1094-car-pooling) |
 | [1103-distribute-candies-to-people](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1103-distribute-candies-to-people) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1535-find-the-winner-of-an-array-game) |
@@ -551,6 +553,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0905-sort-array-by-parity) |
 | [0969-pancake-sorting](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0969-pancake-sorting) |
@@ -1113,6 +1116,7 @@
 ## Stack
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
