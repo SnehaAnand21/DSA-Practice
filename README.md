@@ -412,6 +412,7 @@
 | [1400-construct-k-palindrome-strings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1400-construct-k-palindrome-strings) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1446-consecutive-characters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1446-consecutive-characters) |
+| [1544-make-the-string-great](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1544-make-the-string-great) |
 | [1556-thousand-separator](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1556-thousand-separator) |
 | [1598-crawler-log-folder](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1598-crawler-log-folder) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1616-split-two-strings-to-make-palindrome) |
@@ -1125,6 +1126,7 @@
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1504-count-submatrices-with-all-ones](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1504-count-submatrices-with-all-ones) |
+| [1544-make-the-string-great](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1598-crawler-log-folder) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2019-the-score-of-students-solving-math-expression) |
