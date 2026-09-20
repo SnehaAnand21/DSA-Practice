@@ -290,6 +290,7 @@
 | [2261-k-divisible-elements-subarrays](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2261-k-divisible-elements-subarrays) |
 | [2266-count-number-of-texts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2266-count-number-of-texts) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2405-optimal-partition-of-string](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2405-optimal-partition-of-string) |
 | [2451-odd-string-difference](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2451-odd-string-difference) |
 | [2453-destroy-sequential-targets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2453-destroy-sequential-targets) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2531-make-number-of-distinct-characters-equal) |
@@ -433,6 +434,7 @@
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2266-count-number-of-texts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2266-count-number-of-texts) |
+| [2405-optimal-partition-of-string](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2405-optimal-partition-of-string) |
 | [2451-odd-string-difference](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2451-odd-string-difference) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2531-make-number-of-distinct-characters-equal) |
@@ -855,6 +857,7 @@
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2405-optimal-partition-of-string](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2405-optimal-partition-of-string) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [2498-frog-jump-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2498-frog-jump-ii) |
