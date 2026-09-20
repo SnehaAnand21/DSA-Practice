@@ -92,6 +92,7 @@
 | [2055-plates-between-candles](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2055-plates-between-candles) |
 | [2059-minimum-operations-to-convert-number](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2059-minimum-operations-to-convert-number) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2097-valid-arrangement-of-pairs](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2097-valid-arrangement-of-pairs) |
 | [2101-detonate-the-maximum-bombs](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2101-detonate-the-maximum-bombs) |
 | [2122-recover-the-original-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2122-recover-the-original-array) |
@@ -491,6 +492,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2122-recover-the-original-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2122-recover-the-original-array) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -800,6 +802,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2055-plates-between-candles](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2055-plates-between-candles) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2498-frog-jump-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2498-frog-jump-ii) |
 | [2594-minimum-time-to-repair-cars](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2594-minimum-time-to-repair-cars) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
