@@ -42,6 +42,7 @@
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1314-matrix-block-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1314-matrix-block-sum) |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1330-reverse-subarray-to-maximize-array-value) |
+| [1345-jump-game-iv](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1345-jump-game-iv) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
@@ -270,6 +271,7 @@
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1202-smallest-string-with-swaps](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1202-smallest-string-with-swaps) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
+| [1345-jump-game-iv](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1345-jump-game-iv) |
 | [1348-tweet-counts-per-frequency](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1348-tweet-counts-per-frequency) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1400-construct-k-palindrome-strings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1400-construct-k-palindrome-strings) |
@@ -686,6 +688,7 @@
 | [0752-open-the-lock](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0752-open-the-lock) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1202-smallest-string-with-swaps](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1202-smallest-string-with-swaps) |
+| [1345-jump-game-iv](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1345-jump-game-iv) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2039-the-time-when-the-network-becomes-idle) |
