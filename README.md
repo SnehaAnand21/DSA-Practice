@@ -121,6 +121,7 @@
 | [2509-cycle-length-queries-in-a-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [2518-number-of-great-partitions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2518-number-of-great-partitions) |
 | [2551-put-marbles-in-bags](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2551-put-marbles-in-bags) |
+| [2572-count-the-number-of-square-free-subsets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2572-count-the-number-of-square-free-subsets) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2594-minimum-time-to-repair-cars](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2594-minimum-time-to-repair-cars) |
@@ -361,6 +362,7 @@
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2485-find-the-pivot-integer](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2485-find-the-pivot-integer) |
 | [2543-check-if-point-is-reachable](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2543-check-if-point-is-reachable) |
+| [2572-count-the-number-of-square-free-subsets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2572-count-the-number-of-square-free-subsets) |
 | [2578-split-with-minimum-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2578-split-with-minimum-sum) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2600-k-items-with-the-maximum-sum) |
@@ -531,6 +533,7 @@
 | [0858-mirror-reflection](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0858-mirror-reflection) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2543-check-if-point-is-reachable](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2543-check-if-point-is-reachable) |
+| [2572-count-the-number-of-square-free-subsets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2572-count-the-number-of-square-free-subsets) |
 | [2761-prime-pairs-with-target-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2761-prime-pairs-with-target-sum) |
 | [3115-maximum-prime-difference](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3115-maximum-prime-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -602,6 +605,7 @@
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1803-count-pairs-with-xor-in-a-range](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1803-count-pairs-with-xor-in-a-range) |
 | [2401-longest-nice-subarray](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2401-longest-nice-subarray) |
+| [2572-count-the-number-of-square-free-subsets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2572-count-the-number-of-square-free-subsets) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2683-neighboring-bitwise-xor](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2683-neighboring-bitwise-xor) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3068-find-the-maximum-sum-of-node-values) |
@@ -652,6 +656,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2518-number-of-great-partitions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2518-number-of-great-partitions) |
+| [2572-count-the-number-of-square-free-subsets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2572-count-the-number-of-square-free-subsets) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2746-decremental-string-concatenation](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2746-decremental-string-concatenation) |
 | [2826-sorting-three-groups](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2826-sorting-three-groups) |
@@ -706,6 +711,7 @@
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
+| [2572-count-the-number-of-square-free-subsets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2572-count-the-number-of-square-free-subsets) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3149-find-the-minimum-cost-array-permutation) |
 
 ## Enumeration
