@@ -65,6 +65,7 @@
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1713-minimum-operations-to-make-a-subsequence) |
+| [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
@@ -223,6 +224,7 @@
 | [0997-find-the-town-judge](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0997-find-the-town-judge) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1514-path-with-maximum-probability](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1514-path-with-maximum-probability) |
+| [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
 | [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2097-valid-arrangement-of-pairs](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2097-valid-arrangement-of-pairs) |
@@ -281,6 +283,7 @@
 | [1400-construct-k-palindrome-strings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1400-construct-k-palindrome-strings) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1713-minimum-operations-to-make-a-subsequence) |
+| [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1817-finding-the-users-active-minutes](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1817-finding-the-users-active-minutes) |
@@ -551,6 +554,7 @@
 | [1103-distribute-candies-to-people](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1103-distribute-candies-to-people) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1688-count-of-matches-in-tournament) |
+| [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
 | [1929-concatenation-of-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1929-concatenation-of-array) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -748,6 +752,7 @@
 | [1145-binary-tree-coloring-game](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1145-binary-tree-coloring-game) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2603-collect-coins-in-a-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2603-collect-coins-in-a-tree) |
