@@ -420,6 +420,7 @@
 | [1702-maximum-binary-string-after-change](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1702-maximum-binary-string-after-change) |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1946-largest-number-after-mutating-substring](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1946-largest-number-after-mutating-substring) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
