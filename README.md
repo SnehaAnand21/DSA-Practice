@@ -37,6 +37,7 @@
 | [1109-corporate-flight-bookings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1109-corporate-flight-bookings) |
 | [1140-stone-game-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1202-smallest-string-with-swaps](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1202-smallest-string-with-swaps) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1300-sum-of-mutated-array-closest-to-target) |
@@ -278,6 +279,7 @@
 | [1048-longest-string-chain](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1048-longest-string-chain) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1202-smallest-string-with-swaps](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1202-smallest-string-with-swaps) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1345-jump-game-iv](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1345-jump-game-iv) |
@@ -656,6 +658,7 @@
 | [1048-longest-string-chain](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1155-number-of-dice-rolls-with-target-sum) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1278-palindrome-partitioning-iii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1278-palindrome-partitioning-iii) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
