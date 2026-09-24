@@ -1382,3 +1382,8 @@
 |  |
 | ------- |
 | [1093-statistics-from-a-large-sample](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1093-statistics-from-a-large-sample) |
+
+## Concurrency
+|  |
+| ------- |
+| [1195-fizz-buzz-multithreaded](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1195-fizz-buzz-multithreaded) |
