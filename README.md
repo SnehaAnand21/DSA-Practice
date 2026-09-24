@@ -312,6 +312,7 @@
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2682-find-the-losers-of-the-circular-game) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2747-count-zero-request-servers](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2747-count-zero-request-servers) |
 | [2831-find-the-longest-equal-subarray](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2831-find-the-longest-equal-subarray) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
@@ -379,6 +380,7 @@
 | [2578-split-with-minimum-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2578-split-with-minimum-sum) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2600-k-items-with-the-maximum-sum) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2761-prime-pairs-with-target-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2761-prime-pairs-with-target-sum) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
