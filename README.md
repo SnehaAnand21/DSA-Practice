@@ -141,6 +141,7 @@
 | [2706-buy-two-chocolates](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2706-buy-two-chocolates) |
 | [2746-decremental-string-concatenation](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2746-decremental-string-concatenation) |
 | [2747-count-zero-request-servers](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2747-count-zero-request-servers) |
+| [2750-ways-to-split-array-into-good-subarrays](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2761-prime-pairs-with-target-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2761-prime-pairs-with-target-sum) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -383,6 +384,7 @@
 | [2597-the-number-of-beautiful-subsets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2729-check-if-the-number-is-fascinating) |
+| [2750-ways-to-split-array-into-good-subarrays](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2761-prime-pairs-with-target-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2761-prime-pairs-with-target-sum) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
@@ -684,6 +686,7 @@
 | [2572-count-the-number-of-square-free-subsets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2572-count-the-number-of-square-free-subsets) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2746-decremental-string-concatenation](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2746-decremental-string-concatenation) |
+| [2750-ways-to-split-array-into-good-subarrays](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2826-sorting-three-groups](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2826-sorting-three-groups) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
