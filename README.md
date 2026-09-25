@@ -212,6 +212,7 @@
 | [0565-array-nesting](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0565-array-nesting) |
 | [0572-subtree-of-another-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [1145-binary-tree-coloring-game](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1145-binary-tree-coloring-game) |
+| [1192-critical-connections-in-a-network](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1192-critical-connections-in-a-network) |
 | [1202-smallest-string-with-swaps](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1202-smallest-string-with-swaps) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -230,6 +231,7 @@
 | [0847-shortest-path-visiting-all-nodes](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [0997-find-the-town-judge](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0997-find-the-town-judge) |
+| [1192-critical-connections-in-a-network](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1192-critical-connections-in-a-network) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1514-path-with-maximum-probability](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1514-path-with-maximum-probability) |
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
@@ -1418,3 +1420,13 @@
 |  |
 | ------- |
 | [1195-fizz-buzz-multithreaded](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1195-fizz-buzz-multithreaded) |
+
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1192-critical-connections-in-a-network) |
+
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1192-critical-connections-in-a-network) |
