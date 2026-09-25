@@ -60,6 +60,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1598-crawler-log-folder](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1598-crawler-log-folder) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1630-arithmetic-subarrays](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1630-arithmetic-subarrays) |
@@ -810,6 +811,7 @@
 | [1504-count-submatrices-with-all-ones](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1504-count-submatrices-with-all-ones) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
