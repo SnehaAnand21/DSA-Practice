@@ -64,6 +64,7 @@
 | [1598-crawler-log-folder](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1598-crawler-log-folder) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1630-arithmetic-subarrays](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1630-arithmetic-subarrays) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1642-furthest-building-you-can-reach](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1642-furthest-building-you-can-reach) |
 | [1643-kth-smallest-instructions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1643-kth-smallest-instructions) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
@@ -526,6 +527,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1630-arithmetic-subarrays](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1630-arithmetic-subarrays) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
