@@ -118,6 +118,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2301-match-substring-after-replacement](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2301-match-substring-after-replacement) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2353-design-a-food-rating-system](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2353-design-a-food-rating-system) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -318,6 +319,7 @@
 | [2225-find-players-with-zero-or-one-losses](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2261-k-divisible-elements-subarrays](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2261-k-divisible-elements-subarrays) |
 | [2266-count-number-of-texts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2266-count-number-of-texts) |
+| [2301-match-substring-after-replacement](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2301-match-substring-after-replacement) |
 | [2353-design-a-food-rating-system](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2353-design-a-food-rating-system) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2405-optimal-partition-of-string](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2405-optimal-partition-of-string) |
@@ -475,6 +477,7 @@
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2266-count-number-of-texts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2266-count-number-of-texts) |
+| [2301-match-substring-after-replacement](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2301-match-substring-after-replacement) |
 | [2353-design-a-food-rating-system](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2353-design-a-food-rating-system) |
 | [2405-optimal-partition-of-string](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2405-optimal-partition-of-string) |
 | [2451-odd-string-difference](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2451-odd-string-difference) |
@@ -1151,6 +1154,7 @@
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2301-match-substring-after-replacement](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2301-match-substring-after-replacement) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 
 ## Hash Function
