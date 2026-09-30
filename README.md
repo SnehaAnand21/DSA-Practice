@@ -119,6 +119,7 @@
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2353-design-a-food-rating-system](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2353-design-a-food-rating-system) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2401-longest-nice-subarray](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2401-longest-nice-subarray) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -316,6 +317,7 @@
 | [2225-find-players-with-zero-or-one-losses](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2261-k-divisible-elements-subarrays](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2261-k-divisible-elements-subarrays) |
 | [2266-count-number-of-texts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2266-count-number-of-texts) |
+| [2353-design-a-food-rating-system](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2353-design-a-food-rating-system) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2405-optimal-partition-of-string](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2405-optimal-partition-of-string) |
 | [2451-odd-string-difference](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2451-odd-string-difference) |
@@ -471,6 +473,7 @@
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2266-count-number-of-texts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2266-count-number-of-texts) |
+| [2353-design-a-food-rating-system](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2353-design-a-food-rating-system) |
 | [2405-optimal-partition-of-string](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2405-optimal-partition-of-string) |
 | [2451-odd-string-difference](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2451-odd-string-difference) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2496-maximum-value-of-a-string-in-an-array) |
@@ -989,6 +992,7 @@
 | [1851-minimum-interval-to-include-each-query](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1912-design-movie-rental-system](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1912-design-movie-rental-system) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2353-design-a-food-rating-system](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2353-design-a-food-rating-system) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2551-put-marbles-in-bags](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2551-put-marbles-in-bags) |
@@ -1081,6 +1085,7 @@
 | [1845-seat-reservation-manager](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1845-seat-reservation-manager) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [1912-design-movie-rental-system](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1912-design-movie-rental-system) |
+| [2353-design-a-food-rating-system](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2353-design-a-food-rating-system) |
 | [3408-design-task-manager](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3408-design-task-manager) |
 | [3484-design-spreadsheet](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3484-design-spreadsheet) |
 
@@ -1089,6 +1094,7 @@
 | ------- |
 | [1348-tweet-counts-per-frequency](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1348-tweet-counts-per-frequency) |
 | [1912-design-movie-rental-system](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1912-design-movie-rental-system) |
+| [2353-design-a-food-rating-system](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2353-design-a-food-rating-system) |
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 | [3408-design-task-manager](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3408-design-task-manager) |
 
