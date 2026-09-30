@@ -31,6 +31,7 @@
 | [1002-find-common-characters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1002-find-common-characters) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1032-stream-of-characters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1032-stream-of-characters) |
+| [1034-coloring-a-border](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1034-coloring-a-border) |
 | [1048-longest-string-chain](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1048-longest-string-chain) |
 | [1051-height-checker](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1051-height-checker) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
@@ -220,6 +221,7 @@
 | [0399-evaluate-division](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0399-evaluate-division) |
 | [0565-array-nesting](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0565-array-nesting) |
 | [0572-subtree-of-another-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
+| [1034-coloring-a-border](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1034-coloring-a-border) |
 | [1145-binary-tree-coloring-game](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1145-binary-tree-coloring-game) |
 | [1192-critical-connections-in-a-network](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1192-critical-connections-in-a-network) |
 | [1202-smallest-string-with-swaps](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1202-smallest-string-with-swaps) |
@@ -751,6 +753,7 @@
 | [0399-evaluate-division](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0399-evaluate-division) |
 | [0752-open-the-lock](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0752-open-the-lock) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [1034-coloring-a-border](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1034-coloring-a-border) |
 | [1202-smallest-string-with-swaps](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1202-smallest-string-with-swaps) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1345-jump-game-iv](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1345-jump-game-iv) |
@@ -836,6 +839,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1034-coloring-a-border](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1034-coloring-a-border) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1314-matrix-block-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1314-matrix-block-sum) |
