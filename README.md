@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0399-evaluate-division](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0399-evaluate-division) |
 | [0565-array-nesting](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0565-array-nesting) |
 | [0706-design-hashmap](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0706-design-hashmap) |
 | [0752-open-the-lock](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0752-open-the-lock) |
@@ -215,6 +216,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0399-evaluate-division) |
 | [0565-array-nesting](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0565-array-nesting) |
 | [0572-subtree-of-another-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [1145-binary-tree-coloring-game](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1145-binary-tree-coloring-game) |
@@ -234,6 +236,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0399-evaluate-division) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [0997-find-the-town-judge](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0997-find-the-town-judge) |
@@ -422,6 +425,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0127-word-ladder) |
+| [0399-evaluate-division](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0752-open-the-lock](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0752-open-the-lock) |
 | [0756-pyramid-transition-matrix](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0756-pyramid-transition-matrix) |
@@ -740,6 +744,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0127-word-ladder) |
+| [0399-evaluate-division](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0399-evaluate-division) |
 | [0752-open-the-lock](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0752-open-the-lock) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1202-smallest-string-with-swaps](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1202-smallest-string-with-swaps) |
@@ -1010,6 +1015,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0399-evaluate-division) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [1514-path-with-maximum-probability](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1514-path-with-maximum-probability) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -1045,6 +1051,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0399-evaluate-division) |
 | [1202-smallest-string-with-swaps](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1202-smallest-string-with-swaps) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -1462,3 +1469,13 @@
 |  |
 | ------- |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0399-evaluate-division) |
+
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0399-evaluate-division) |
