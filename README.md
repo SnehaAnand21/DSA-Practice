@@ -5,6 +5,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0399-evaluate-division](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0399-evaluate-division) |
+| [0457-circular-array-loop](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0457-circular-array-loop) |
 | [0565-array-nesting](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0565-array-nesting) |
 | [0706-design-hashmap](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0706-design-hashmap) |
 | [0752-open-the-lock](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0752-open-the-lock) |
@@ -279,6 +280,7 @@
 | ------- |
 | [0127-word-ladder](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0457-circular-array-loop](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0457-circular-array-loop) |
 | [0706-design-hashmap](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0706-design-hashmap) |
 | [0752-open-the-lock](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0752-open-the-lock) |
 | [0756-pyramid-transition-matrix](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0756-pyramid-transition-matrix) |
@@ -613,6 +615,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0457-circular-array-loop](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0457-circular-array-loop) |
 | [0844-backspace-string-compare](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0905-sort-array-by-parity) |
@@ -674,6 +677,7 @@
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0457-circular-array-loop](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0457-circular-array-loop) |
 | [0957-prison-cells-after-n-days](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0957-prison-cells-after-n-days) |
 
 ## Dynamic Programming
