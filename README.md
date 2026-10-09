@@ -481,6 +481,7 @@
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2129-capitalize-the-title](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2129-capitalize-the-title) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2167-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2167-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2224-minimum-number-of-operations-to-convert-time) |
@@ -711,6 +712,7 @@
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2063-vowels-of-all-substrings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2063-vowels-of-all-substrings) |
+| [2167-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2167-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2266-count-number-of-texts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2266-count-number-of-texts) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
