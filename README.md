@@ -121,6 +121,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2295-replace-elements-in-an-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2295-replace-elements-in-an-array) |
 | [2301-match-substring-after-replacement](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2301-match-substring-after-replacement) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2353-design-a-food-rating-system](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2353-design-a-food-rating-system) |
@@ -326,6 +327,7 @@
 | [2225-find-players-with-zero-or-one-losses](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2261-k-divisible-elements-subarrays](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2261-k-divisible-elements-subarrays) |
 | [2266-count-number-of-texts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2266-count-number-of-texts) |
+| [2295-replace-elements-in-an-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2295-replace-elements-in-an-array) |
 | [2301-match-substring-after-replacement](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2301-match-substring-after-replacement) |
 | [2353-design-a-food-rating-system](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2353-design-a-food-rating-system) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -606,6 +608,7 @@
 | [1929-concatenation-of-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1929-concatenation-of-array) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2295-replace-elements-in-an-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2295-replace-elements-in-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2682-find-the-losers-of-the-circular-game) |
