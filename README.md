@@ -259,6 +259,7 @@
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2603-collect-coins-in-a-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2603-collect-coins-in-a-tree) |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
+| [2699-modify-graph-edge-weights](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2699-modify-graph-edge-weights) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 | [3493-properties-graph](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3493-properties-graph) |
@@ -1030,6 +1031,7 @@
 | [2551-put-marbles-in-bags](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2551-put-marbles-in-bags) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
+| [2699-modify-graph-edge-weights](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2699-modify-graph-edge-weights) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [3408-design-task-manager](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3408-design-task-manager) |
@@ -1043,6 +1045,7 @@
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
+| [2699-modify-graph-edge-weights](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2699-modify-graph-edge-weights) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 
 ## Knapsack Problem
