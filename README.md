@@ -317,6 +317,7 @@
 | [1817-finding-the-users-active-minutes](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1817-finding-the-users-active-minutes) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [1912-design-movie-rental-system](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1912-design-movie-rental-system) |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2103-rings-and-rods](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2103-rings-and-rods) |
 | [2122-recover-the-original-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2122-recover-the-original-array) |
@@ -475,6 +476,7 @@
 | [1898-maximum-number-of-removable-characters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1898-maximum-number-of-removable-characters) |
 | [1946-largest-number-after-mutating-substring](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1946-largest-number-after-mutating-substring) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2047-number-of-valid-words-in-a-sentence) |
 | [2055-plates-between-candles](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2055-plates-between-candles) |
@@ -635,6 +637,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1898-maximum-number-of-removable-characters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1898-maximum-number-of-removable-characters) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2122-recover-the-original-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2122-recover-the-original-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -790,6 +793,7 @@
 | [1291-sequential-digits](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1291-sequential-digits) |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2122-recover-the-original-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2122-recover-the-original-array) |
 | [2261-k-divisible-elements-subarrays](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2261-k-divisible-elements-subarrays) |
 | [2761-prime-pairs-with-target-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2761-prime-pairs-with-target-sum) |
@@ -984,6 +988,7 @@
 | [1400-construct-k-palindrome-strings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1400-construct-k-palindrome-strings) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2183-count-array-pairs-divisible-by-k) |
@@ -1055,6 +1060,7 @@
 | [0756-pyramid-transition-matrix](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0756-pyramid-transition-matrix) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1774-closest-dessert-cost](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1774-closest-dessert-cost) |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2597-the-number-of-beautiful-subsets) |
 
 ## Mixed Knapsack
