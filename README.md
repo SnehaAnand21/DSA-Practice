@@ -494,6 +494,7 @@
 | [2531-make-number-of-distinct-characters-equal](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2531-make-number-of-distinct-characters-equal) |
 | [2609-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2609-find-the-longest-balanced-substring-of-a-binary-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2746-decremental-string-concatenation](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2746-decremental-string-concatenation) |
 | [2833-furthest-point-from-origin](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
