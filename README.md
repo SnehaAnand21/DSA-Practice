@@ -30,6 +30,7 @@
 | [1000-minimum-cost-to-merge-stones](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1002-find-common-characters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1002-find-common-characters) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1019-next-greater-node-in-linked-list](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1019-next-greater-node-in-linked-list) |
 | [1032-stream-of-characters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1032-stream-of-characters) |
 | [1034-coloring-a-border](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1034-coloring-a-border) |
 | [1048-longest-string-chain](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1048-longest-string-chain) |
@@ -1239,6 +1240,7 @@
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0844-backspace-string-compare) |
+| [1019-next-greater-node-in-linked-list](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -1281,6 +1283,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1504-count-submatrices-with-all-ones](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1504-count-submatrices-with-all-ones) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
@@ -1417,6 +1420,7 @@
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0706-design-hashmap) |
+| [1019-next-greater-node-in-linked-list](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1019-next-greater-node-in-linked-list) |
 
 ## Data Stream
 |  |
