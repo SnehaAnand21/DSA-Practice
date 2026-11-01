@@ -148,6 +148,7 @@
 | [2603-collect-coins-in-a-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2603-collect-coins-in-a-tree) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
+| [2681-power-of-heroes](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2681-power-of-heroes) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2682-find-the-losers-of-the-circular-game) |
 | [2683-neighboring-bitwise-xor](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2683-neighboring-bitwise-xor) |
 | [2706-buy-two-chocolates](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2706-buy-two-chocolates) |
@@ -414,6 +415,7 @@
 | [2578-split-with-minimum-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2578-split-with-minimum-sum) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2600-k-items-with-the-maximum-sum) |
+| [2681-power-of-heroes](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2681-power-of-heroes) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2761-prime-pairs-with-target-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2761-prime-pairs-with-target-sum) |
@@ -576,6 +578,7 @@
 | [2578-split-with-minimum-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2578-split-with-minimum-sum) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2597-the-number-of-beautiful-subsets) |
+| [2681-power-of-heroes](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2681-power-of-heroes) |
 | [2706-buy-two-chocolates](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2706-buy-two-chocolates) |
 | [2747-count-zero-request-servers](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2747-count-zero-request-servers) |
 | [2933-high-access-employees](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2933-high-access-employees) |
@@ -732,6 +735,7 @@
 | [2518-number-of-great-partitions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2518-number-of-great-partitions) |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2572-count-the-number-of-square-free-subsets) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2597-the-number-of-beautiful-subsets) |
+| [2681-power-of-heroes](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2681-power-of-heroes) |
 | [2746-decremental-string-concatenation](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2746-decremental-string-concatenation) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2826-sorting-three-groups](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2826-sorting-three-groups) |
@@ -1113,6 +1117,7 @@
 | [2485-find-the-pivot-integer](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2485-find-the-pivot-integer) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
+| [2681-power-of-heroes](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2681-power-of-heroes) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3364-minimum-positive-sum-subarray](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
