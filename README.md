@@ -219,6 +219,7 @@
 | [3493-properties-graph](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3493-properties-graph) |
 | [3495-minimum-operations-to-make-array-elements-zero](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3522-calculate-score-after-performing-instructions) |
+| [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 
 ## Depth-First Search
 |  |
@@ -436,6 +437,7 @@
 | [3404-count-special-subsequences](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3404-count-special-subsequences) |
 | [3495-minimum-operations-to-make-array-elements-zero](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
 | [3516-find-closest-person](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3516-find-closest-person) |
+| [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3556-sum-of-largest-prime-substrings) |
 
 ## String
@@ -695,6 +697,7 @@
 | [3287-find-the-maximum-sequence-value-of-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3287-find-the-maximum-sequence-value-of-array) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3495-minimum-operations-to-make-array-elements-zero](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
+| [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -765,6 +768,7 @@
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 | [3448-count-substrings-divisible-by-last-digit](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3448-count-substrings-divisible-by-last-digit) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
+| [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 | [3543-maximum-weighted-k-edge-path](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3543-maximum-weighted-k-edge-path) |
 | [3563-lexicographically-smallest-string-after-adjacent-removals](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3563-lexicographically-smallest-string-after-adjacent-removals) |
 
@@ -800,6 +804,7 @@
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2572-count-the-number-of-square-free-subsets) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3149-find-the-minimum-cost-array-permutation) |
+| [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 
 ## Enumeration
 |  |
@@ -1231,6 +1236,7 @@
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3343-count-number-of-balanced-permutations](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3343-count-number-of-balanced-permutations) |
+| [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 
 ## Dijkstra's Algorithm
 |  |
