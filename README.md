@@ -179,6 +179,7 @@
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3111-minimum-rectangles-to-cover-points](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3111-minimum-rectangles-to-cover-points) |
 | [3115-maximum-prime-difference](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3115-maximum-prime-difference) |
+| [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
 | [3127-make-a-square-with-the-same-color](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3127-make-a-square-with-the-same-color) |
 | [3128-right-triangles](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3128-right-triangles) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3131-find-the-integer-added-to-array-i) |
@@ -751,6 +752,7 @@
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3068-find-the-maximum-sum-of-node-values) |
+| [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
@@ -893,6 +895,7 @@
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3030-find-the-grid-of-region-average](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3030-find-the-grid-of-region-average) |
+| [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
 | [3127-make-a-square-with-the-same-color](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3127-make-a-square-with-the-same-color) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3256-maximum-value-sum-by-placing-three-rooks-i) |
