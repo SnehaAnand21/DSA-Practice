@@ -527,6 +527,7 @@
 | [2976-minimum-cost-to-convert-string-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3019-number-of-changing-keys](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3019-number-of-changing-keys) |
+| [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3114-latest-time-you-can-obtain-after-replacing-characters) |
@@ -1224,6 +1225,7 @@
 | [2185-counting-words-with-a-given-prefix](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2301-match-substring-after-replacement](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2301-match-substring-after-replacement) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+| [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 
 ## Hash Function
 |  |
@@ -1232,6 +1234,7 @@
 | [0706-design-hashmap](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0706-design-hashmap) |
 | [2261-k-divisible-elements-subarrays](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2261-k-divisible-elements-subarrays) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+| [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 
 ## Brainteaser
 |  |
@@ -1385,6 +1388,7 @@
 | ------- |
 | [2261-k-divisible-elements-subarrays](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2261-k-divisible-elements-subarrays) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+| [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 
 ## Z Algorithm
 |  |
