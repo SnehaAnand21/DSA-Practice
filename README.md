@@ -18,6 +18,7 @@
 | [0900-rle-iterator](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0900-rle-iterator) |
 | [0905-sort-array-by-parity](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0905-sort-array-by-parity) |
 | [0910-smallest-range-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0910-smallest-range-ii) |
+| [0912-sort-an-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0956-tallest-billboard](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0956-tallest-billboard) |
 | [0957-prison-cells-after-n-days](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0957-prison-cells-after-n-days) |
@@ -551,6 +552,7 @@
 | [0881-boats-to-save-people](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0905-sort-array-by-parity) |
 | [0910-smallest-range-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0910-smallest-range-ii) |
+| [0912-sort-an-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0912-sort-an-array) |
 | [0969-pancake-sorting](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0969-pancake-sorting) |
 | [1048-longest-string-chain](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1048-longest-string-chain) |
 | [1051-height-checker](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1051-height-checker) |
@@ -1039,6 +1041,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0882-reachable-nodes-in-subdivided-graph) |
+| [0912-sort-an-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0912-sort-an-array) |
 | [1094-car-pooling](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1094-car-pooling) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
@@ -1422,6 +1425,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
@@ -1429,6 +1433,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1051-height-checker) |
 
 ## Bubble Sort
@@ -1541,3 +1546,18 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0399-evaluate-division) |
+
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0912-sort-an-array) |
+
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0912-sort-an-array) |
+
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0912-sort-an-array) |
