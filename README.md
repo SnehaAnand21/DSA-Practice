@@ -145,6 +145,7 @@
 | [2509-cycle-length-queries-in-a-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [2518-number-of-great-partitions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2518-number-of-great-partitions) |
 | [2551-put-marbles-in-bags](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2551-put-marbles-in-bags) |
+| [2553-separate-the-digits-in-an-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2553-separate-the-digits-in-an-array) |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2572-count-the-number-of-square-free-subsets) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2588-count-the-number-of-beautiful-subarrays) |
@@ -636,6 +637,7 @@
 | [2295-replace-elements-in-an-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2295-replace-elements-in-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2553-separate-the-digits-in-an-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2553-separate-the-digits-in-an-array) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2682-find-the-losers-of-the-circular-game) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2717-semi-ordered-permutation](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2717-semi-ordered-permutation) |
