@@ -134,6 +134,7 @@
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2432-the-employee-that-worked-on-the-longest-task](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2432-the-employee-that-worked-on-the-longest-task) |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [2451-odd-string-difference](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2451-odd-string-difference) |
 | [2453-destroy-sequential-targets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2453-destroy-sequential-targets) |
