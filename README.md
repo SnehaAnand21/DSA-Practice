@@ -180,6 +180,7 @@
 | [3039-apply-operations-to-make-string-empty](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3068-find-the-maximum-sum-of-node-values) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3101-count-alternating-subarrays](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3101-count-alternating-subarrays) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
@@ -644,6 +645,7 @@
 | [2682-find-the-losers-of-the-circular-game](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2682-find-the-losers-of-the-circular-game) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2717-semi-ordered-permutation](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2717-semi-ordered-permutation) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3248-snake-in-matrix](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3248-snake-in-matrix) |
 | [3360-stone-removal-game](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3360-stone-removal-game) |
@@ -674,6 +676,7 @@
 | [2856-minimum-array-length-after-pair-removals](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 
