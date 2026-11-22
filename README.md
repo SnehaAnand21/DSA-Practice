@@ -100,6 +100,7 @@
 | [1955-count-number-of-special-subsequences](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1955-count-number-of-special-subsequences) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2017-grid-game](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2017-grid-game) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2019-the-score-of-students-solving-math-expression) |
@@ -495,6 +496,7 @@
 | [1898-maximum-number-of-removable-characters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1898-maximum-number-of-removable-characters) |
 | [1946-largest-number-after-mutating-substring](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1946-largest-number-after-mutating-substring) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2047-number-of-valid-words-in-a-sentence) |
@@ -579,6 +581,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1851-minimum-interval-to-include-each-query) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2122-recover-the-original-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2122-recover-the-original-array) |
@@ -1056,6 +1059,7 @@
 | [1845-seat-reservation-manager](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1845-seat-reservation-manager) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1912-design-movie-rental-system](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1912-design-movie-rental-system) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2353-design-a-food-rating-system](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2353-design-a-food-rating-system) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -1436,6 +1440,7 @@
 | [0912-sort-an-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 
 ## Counting Sort
@@ -1514,6 +1519,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 
 ## Timsort
 |  |
