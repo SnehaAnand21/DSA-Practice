@@ -370,6 +370,7 @@
 | [3039-apply-operations-to-make-string-empty](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3128-right-triangles](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3128-right-triangles) |
+| [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3351-sum-of-good-subsequences](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3351-sum-of-good-subsequences) |
@@ -538,6 +539,7 @@
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3114-latest-time-you-can-obtain-after-replacing-characters) |
+| [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 | [3248-snake-in-matrix](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3248-snake-in-matrix) |
@@ -774,6 +776,7 @@
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
+| [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
@@ -1047,6 +1050,7 @@
 | [3039-apply-operations-to-make-string-empty](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3128-right-triangles](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3128-right-triangles) |
+| [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3389-minimum-operations-to-make-character-frequencies-equal) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
