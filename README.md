@@ -144,6 +144,7 @@
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2498-frog-jump-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2498-frog-jump-ii) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2509-cycle-length-queries-in-a-tree) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2518-number-of-great-partitions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2518-number-of-great-partitions) |
 | [2551-put-marbles-in-bags](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2551-put-marbles-in-bags) |
 | [2553-separate-the-digits-in-an-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2553-separate-the-digits-in-an-array) |
@@ -518,6 +519,7 @@
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2451-odd-string-difference](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2451-odd-string-difference) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2531-make-number-of-distinct-characters-equal) |
 | [2609-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2609-find-the-longest-balanced-substring-of-a-binary-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2696-minimum-string-length-after-removing-substrings) |
