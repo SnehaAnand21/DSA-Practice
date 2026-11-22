@@ -309,6 +309,7 @@
 | [0823-binary-trees-with-factors](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0823-binary-trees-with-factors) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0859-buddy-strings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0859-buddy-strings) |
+| [0869-reordered-power-of-2](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0869-reordered-power-of-2) |
 | [0957-prison-cells-after-n-days](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0957-prison-cells-after-n-days) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -395,6 +396,7 @@
 | [0728-self-dividing-numbers](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0812-largest-triangle-area) |
 | [0858-mirror-reflection](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0858-mirror-reflection) |
+| [0869-reordered-power-of-2](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0869-reordered-power-of-2) |
 | [0910-smallest-range-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0910-smallest-range-ii) |
 | [0957-prison-cells-after-n-days](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0957-prison-cells-after-n-days) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -560,6 +562,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0823-binary-trees-with-factors](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0823-binary-trees-with-factors) |
+| [0869-reordered-power-of-2](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0869-reordered-power-of-2) |
 | [0881-boats-to-save-people](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0905-sort-array-by-parity) |
 | [0910-smallest-range-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0910-smallest-range-ii) |
@@ -835,6 +838,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0869-reordered-power-of-2](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0869-reordered-power-of-2) |
 | [1291-sequential-digits](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1291-sequential-digits) |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
@@ -1031,6 +1035,7 @@
 ## Counting
 |  |
 | ------- |
+| [0869-reordered-power-of-2](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0869-reordered-power-of-2) |
 | [0900-rle-iterator](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0900-rle-iterator) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1400-construct-k-palindrome-strings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1400-construct-k-palindrome-strings) |
