@@ -104,6 +104,7 @@
 | [2012-sum-of-beauty-in-the-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2017-grid-game](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2017-grid-game) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2019-the-score-of-students-solving-math-expression) |
+| [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2055-plates-between-candles](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2055-plates-between-candles) |
 | [2059-minimum-operations-to-convert-number](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2059-minimum-operations-to-convert-number) |
@@ -343,6 +344,7 @@
 | [1912-design-movie-rental-system](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1912-design-movie-rental-system) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2019-the-score-of-students-solving-math-expression) |
+| [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 | [2103-rings-and-rods](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2103-rings-and-rods) |
 | [2122-recover-the-original-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2122-recover-the-original-array) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
@@ -857,6 +859,7 @@
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2014-longest-subsequence-repeated-k-times) |
+| [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 | [2122-recover-the-original-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2122-recover-the-original-array) |
 | [2261-k-divisible-elements-subarrays](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2261-k-divisible-elements-subarrays) |
 | [2761-prime-pairs-with-target-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2761-prime-pairs-with-target-sum) |
@@ -1059,6 +1062,7 @@
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2014-longest-subsequence-repeated-k-times) |
+| [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2183-count-array-pairs-divisible-by-k) |
@@ -1173,6 +1177,7 @@
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2017-grid-game](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2017-grid-game) |
+| [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 | [2055-plates-between-candles](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2055-plates-between-candles) |
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2251-number-of-flowers-in-full-bloom) |
