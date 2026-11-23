@@ -167,6 +167,7 @@
 | [2747-count-zero-request-servers](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2747-count-zero-request-servers) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2761-prime-pairs-with-target-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2761-prime-pairs-with-target-sum) |
+| [2790-maximum-number-of-groups-with-increasing-length](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2826-sorting-three-groups](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2826-sorting-three-groups) |
@@ -439,6 +440,7 @@
 | [2729-check-if-the-number-is-fascinating](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2761-prime-pairs-with-target-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2761-prime-pairs-with-target-sum) |
+| [2790-maximum-number-of-groups-with-increasing-length](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3079-find-the-sum-of-encrypted-integers) |
@@ -614,6 +616,7 @@
 | [2681-power-of-heroes](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2681-power-of-heroes) |
 | [2706-buy-two-chocolates](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2706-buy-two-chocolates) |
 | [2747-count-zero-request-servers](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2747-count-zero-request-servers) |
+| [2790-maximum-number-of-groups-with-increasing-length](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [2933-high-access-employees](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2933-high-access-employees) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -964,6 +967,7 @@
 | [2251-number-of-flowers-in-full-bloom](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2498-frog-jump-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2498-frog-jump-ii) |
 | [2594-minimum-time-to-repair-cars](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2594-minimum-time-to-repair-cars) |
+| [2790-maximum-number-of-groups-with-increasing-length](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2826-sorting-three-groups](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2826-sorting-three-groups) |
 | [2831-find-the-longest-equal-subarray](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2831-find-the-longest-equal-subarray) |
@@ -1021,6 +1025,7 @@
 | [2578-split-with-minimum-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2578-split-with-minimum-sum) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2706-buy-two-chocolates](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2706-buy-two-chocolates) |
+| [2790-maximum-number-of-groups-with-increasing-length](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
