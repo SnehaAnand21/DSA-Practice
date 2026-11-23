@@ -156,6 +156,7 @@
 | [2597-the-number-of-beautiful-subsets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2603-collect-coins-in-a-tree](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2603-collect-coins-in-a-tree) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 | [2681-power-of-heroes](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2681-power-of-heroes) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2682-find-the-losers-of-the-circular-game) |
@@ -361,6 +362,7 @@
 | [2531-make-number-of-distinct-characters-equal](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2531-make-number-of-distinct-characters-equal) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2597-the-number-of-beautiful-subsets) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2682-find-the-losers-of-the-circular-game) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2747-count-zero-request-servers](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2747-count-zero-request-servers) |
@@ -717,6 +719,7 @@
 | [2401-longest-nice-subarray](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2401-longest-nice-subarray) |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2572-count-the-number-of-square-free-subsets) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2588-count-the-number-of-beautiful-subarrays) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2683-neighboring-bitwise-xor](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2683-neighboring-bitwise-xor) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3133-minimum-array-end](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3133-minimum-array-end) |
