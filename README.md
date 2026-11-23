@@ -445,6 +445,7 @@
 | [3115-maximum-prime-difference](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3115-maximum-prime-difference) |
 | [3128-right-triangles](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3128-right-triangles) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
+| [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3260-find-the-largest-palindrome-divisible-by-k) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3343-count-number-of-balanced-permutations](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3343-count-number-of-balanced-permutations) |
@@ -547,6 +548,7 @@
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 | [3248-snake-in-matrix](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3248-snake-in-matrix) |
+| [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3260-find-the-largest-palindrome-divisible-by-k) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3343-count-number-of-balanced-permutations](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3343-count-number-of-balanced-permutations) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
@@ -633,6 +635,7 @@
 | [2572-count-the-number-of-square-free-subsets](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2572-count-the-number-of-square-free-subsets) |
 | [2761-prime-pairs-with-target-sum](https://github.com/SnehaAnand21/DSA-Practice/tree/master/2761-prime-pairs-with-target-sum) |
 | [3115-maximum-prime-difference](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3115-maximum-prime-difference) |
+| [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3260-find-the-largest-palindrome-divisible-by-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3556-sum-of-largest-prime-substrings) |
 
@@ -791,6 +794,7 @@
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3256-maximum-value-sum-by-placing-three-rooks-i) |
+| [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3260-find-the-largest-palindrome-divisible-by-k) |
 | [3287-find-the-maximum-sequence-value-of-array](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3287-find-the-maximum-sequence-value-of-array) |
 | [3343-count-number-of-balanced-permutations](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3343-count-number-of-balanced-permutations) |
 | [3351-sum-of-good-subsequences](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3351-sum-of-good-subsequences) |
@@ -1026,6 +1030,7 @@
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
+| [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3260-find-the-largest-palindrome-divisible-by-k) |
 | [3282-reach-end-of-array-with-max-score](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3282-reach-end-of-array-with-max-score) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3457-eat-pizzas](https://github.com/SnehaAnand21/DSA-Practice/tree/master/3457-eat-pizzas) |
