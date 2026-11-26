@@ -402,6 +402,7 @@
 ## Math
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0728-self-dividing-numbers](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0812-largest-triangle-area) |
 | [0858-mirror-reflection](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0858-mirror-reflection) |
@@ -751,6 +752,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0823-binary-trees-with-factors](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0823-binary-trees-with-factors) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
@@ -1534,11 +1536,13 @@
 ## Minimax
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1140-stone-game-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1140-stone-game-ii) |
 
 ## Game Theory
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1140-stone-game-ii](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SnehaAnand21/DSA-Practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
 
